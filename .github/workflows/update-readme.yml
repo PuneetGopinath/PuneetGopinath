@@ -1,0 +1,47 @@
+name: Update README
+
+on:
+  schedule:
+    # Runs every first and 12 hrs.
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  stats:
+    name: Update README with stats
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Generate stats
+        uses: teoxoy/profile-readme-stats@v1
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+          includeForks: true
+
+      - name: Add stats to readme
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name github-actions[bot]
+            git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+            git pull
+            git add --all
+            git commit -m "Update README.md with stats"
+            git push
+          fi
+  activity:
+    name: Update README with recent activity
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Add activity to readme
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Update README.md with recent activity'
