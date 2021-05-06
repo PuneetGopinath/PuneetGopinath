@@ -59,7 +59,7 @@
 - Created my github account **0** years ago.
 - Contributed to **15** repositories.
 - Own **6** repositories and **1** gists.
-- Pushed **204** to github.
+- Pushed **204** commits to github.
 - Opened **6** issues.
 - Submitted **19** pull requests.
 - Received **3** stars from github users.

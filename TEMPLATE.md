@@ -54,7 +54,7 @@
 - Created my github account **{{ ACCOUNT_AGE }}** years ago.
 - Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories.
 - Own **{{ REPOSITORIES }}** repositories and **{{ GISTS }}** gists.
-- Pushed **{{ COMMITS }}** to github.
+- Pushed **{{ COMMITS }}** commits to github.
 - Opened **{{ ISSUES }}** issues.
 - Submitted **{{ PULL_REQUESTS }}** pull requests.
 - Received **{{ STARS }}** stars from github users.
