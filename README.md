@@ -43,9 +43,9 @@
 ### 🗣 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/teoxoy/profile-readme-stats/issues/7) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
-2. 🗣 Commented on [#6727](https://github.com/termux/termux-packages/issues/6727) in [termux/termux-packages](https://github.com/termux/termux-packages)
-3. 🗣 Commented on [#6727](https://github.com/termux/termux-packages/issues/6727) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 🎉 Merged PR [#6](https://github.com/PuneetGopinath/IRCbot/pull/6) in [PuneetGopinath/IRCbot](https://github.com/PuneetGopinath/IRCbot)
+2. 💪 Opened PR [#6](https://github.com/PuneetGopinath/IRCbot/pull/6) in [PuneetGopinath/IRCbot](https://github.com/PuneetGopinath/IRCbot)
+3. 🗣 Commented on [#7](https://github.com/teoxoy/profile-readme-stats/issues/7) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
 4. 🗣 Commented on [#6727](https://github.com/termux/termux-packages/issues/6727) in [termux/termux-packages](https://github.com/termux/termux-packages)
 5. 🗣 Commented on [#6727](https://github.com/termux/termux-packages/issues/6727) in [termux/termux-packages](https://github.com/termux/termux-packages)
 <!--END_SECTION:activity-->
