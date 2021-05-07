@@ -18,7 +18,7 @@ jobs:
       - name: Generate stats
         uses: teoxoy/profile-readme-stats@v1
         with:
-          token: ${{ secrets.USER_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }}
           includeForks: true
 
       - name: Add stats to readme
@@ -40,8 +40,9 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Add activity to readme
-        uses: jamesgeorge007/github-activity-readme@master
+        uses: Readme-Workflows/recent-activity@test
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Update README.md with recent activity'
+          README_FILE: ./TEMPLATE.md

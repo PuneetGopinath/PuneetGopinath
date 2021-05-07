@@ -43,11 +43,11 @@
 ### 🗣 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/PuneetGopinath/IRCbot/pull/6) in [PuneetGopinath/IRCbot](https://github.com/PuneetGopinath/IRCbot)
-2. 💪 Opened PR [#6](https://github.com/PuneetGopinath/IRCbot/pull/6) in [PuneetGopinath/IRCbot](https://github.com/PuneetGopinath/IRCbot)
-3. 🗣 Commented on [#7](https://github.com/teoxoy/profile-readme-stats/issues/7) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
-4. 🗣 Commented on [#6727](https://github.com/termux/termux-packages/issues/6727) in [termux/termux-packages](https://github.com/termux/termux-packages)
-5. 🗣 Commented on [#6727](https://github.com/termux/termux-packages/issues/6727) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 🗣 Commented on [#14](https://github.com/Readme-Workflows/recent-activity/issues/14) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. 🗣 Commented on [#15](https://github.com/Readme-Workflows/recent-activity/issues/15) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ❌ Closed PR [#416](https://github.com/gita/BhagavadGita/pull/416) in [gita/BhagavadGita](https://github.com/gita/BhagavadGita)
+4. 🗣 Commented on [#69](https://github.com/pypa/trove-classifiers/issues/69) in [pypa/trove-classifiers](https://github.com/pypa/trove-classifiers)
+5. 🗣 Commented on [#14](https://github.com/Readme-Workflows/recent-activity/issues/14) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--END_SECTION:activity-->
 
 ### 🗄 My projects:
@@ -57,12 +57,12 @@
 ### 🚀 Stats
 
 - Created my github account **0** years ago.
-- Contributed to **15** repositories.
+- Contributed to **17** repositories.
 - Own **6** repositories and **1** gists.
-- Pushed **204** commits to github.
-- Opened **6** issues.
-- Submitted **19** pull requests.
-- Received **3** stars from github users.
+- Pushed **148** commits to github.
+- Opened **8** issues.
+- Submitted **29** pull requests.
+- Received **13** stars from github users.
 
 <!--
 **PuneetGopinath/PuneetGopinath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
