@@ -44,8 +44,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          README_FILE: ./TEMPLATE.md
-          DISABLE_EVENTS: "comments"
+          README_FILE: "./TEMPLATE.md"
+          MAX_LINES: 10
           COMMENTS_ACTIVITY: "![comment] Commented on {ID} in {REPO}"
           ISSUE_OPENED: "![issueOpened] Opened issue {ID} in {REPO}"
           ISSUE_CLOSED: "![issueClosed] Closed issue {ID} in {REPO}"

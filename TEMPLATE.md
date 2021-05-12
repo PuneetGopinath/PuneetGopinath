@@ -43,11 +43,6 @@
 ### 🗣 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/Readme-Workflows/recent-activity/issues/15) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 🗣 Commented on [#15](https://github.com/Readme-Workflows/recent-activity/issues/15) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ❌ Closed PR [#14](https://github.com/Readme-Workflows/recent-activity/pull/14) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. 🗣 Commented on [#15](https://github.com/Readme-Workflows/recent-activity/issues/15) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 🗣 Commented on [#14](https://github.com/Readme-Workflows/recent-activity/issues/14) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--END_SECTION:activity-->
 
 ### 🗄 My projects:
