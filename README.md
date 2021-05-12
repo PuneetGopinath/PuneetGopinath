@@ -43,11 +43,6 @@
 ### 🗣 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/Readme-Workflows/recent-activity/issues/15) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. 🗣 Commented on [#15](https://github.com/Readme-Workflows/recent-activity/issues/15) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ❌ Closed PR [#14](https://github.com/Readme-Workflows/recent-activity/pull/14) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. 🗣 Commented on [#15](https://github.com/Readme-Workflows/recent-activity/issues/15) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. 🗣 Commented on [#14](https://github.com/Readme-Workflows/recent-activity/issues/14) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--END_SECTION:activity-->
 
 ### 🗄 My projects:
@@ -58,11 +53,18 @@
 
 - Created my github account **0** years ago.
 - Contributed to **17** repositories.
-- Own **6** repositories and **1** gists.
-- Pushed **150** commits to github.
-- Opened **8** issues.
-- Submitted **29** pull requests.
+- Own **7** repositories and **1** gists.
+- Pushed **161** commits to github.
+- Opened **9** issues.
+- Submitted **30** pull requests.
 - Received **13** stars from github users.
+
+[issueopened]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/IssueOpened.svg
+[issueclosed]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/IssueClosed.svg
+[propened]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/PullRequestOpened.svg
+[prclosed]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/PullRequestClosed.svg
+[prmerged]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/PullRequestMerged.svg
+[comment]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/Comment.svg
 
 <!--
 **PuneetGopinath/PuneetGopinath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
