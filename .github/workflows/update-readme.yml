@@ -44,5 +44,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'Update README.md with recent activity'
           README_FILE: ./TEMPLATE.md
+          DISABLE_EVENTS: "comments"
+          COMMENTS_ACTIVITY: "![comment] Commented on {ID} in {REPO}"
+          ISSUE_OPENED: "![issueOpened] Opened issue {ID} in {REPO}"
+          ISSUE_CLOSED: "![issueClosed] Closed issue {ID} in {REPO}"
+          PR_OPENED: "![prOpened] Opened PR {ID} in {REPO}"
+          PR_CLOSED: "![prClosed] Closed PR {ID} in {REPO}"
+          PR_MERGED: "![prMerged] Merged PR {ID} in {REPO}"
