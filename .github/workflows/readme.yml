@@ -38,6 +38,9 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v2
 
+      - name: git pull
+        run: git pull
+
       - name: Generate stats
         uses: teoxoy/profile-readme-stats@v1
         with:
@@ -51,6 +54,5 @@ jobs:
             git config user.email 41898282+github-actions[bot]@users.noreply.github.com
             git add --all
             git commit -m "Update README.md with stats"
-            git pull
             git push
           fi
