@@ -45,19 +45,8 @@
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": false}-->
 
 ### 🗣 Recent Activity
-
-<!--START_SECTION:activity-->
-1. ![prMerged] Merged PR [#38](https://github.com/Readme-Workflows/recent-activity/pull/38) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![prMerged] Merged PR [#37](https://github.com/Readme-Workflows/recent-activity/pull/37) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![prOpened] Opened PR [#37](https://github.com/Readme-Workflows/recent-activity/pull/37) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![prMerged] Merged PR [#36](https://github.com/Readme-Workflows/recent-activity/pull/36) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![prMerged] Merged PR [#1](https://github.com/PuneetGopinath/recent-activity-template/pull/1) in [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template)
-6. ![prOpened] Opened PR [#1](https://github.com/PuneetGopinath/recent-activity-template/pull/1) in [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template)
-7. ![prMerged] Merged PR [#35](https://github.com/Readme-Workflows/recent-activity/pull/35) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![prMerged] Merged PR [#25](https://github.com/Readme-Workflows/recent-activity/pull/25) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![comment] Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-10. ![prMerged] Merged PR [#25](https://github.com/Readme-Workflows/recent-activity/pull/25) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:start-->
 
 ### 🗄 My projects:
 
