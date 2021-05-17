@@ -45,19 +45,8 @@
 <!--GITHUB_ACTIVITY:{"rows": 5, "raw": false}-->
 
 ### 🗣 Recent Activity
-
-<!--START_SECTION:activity-->
-1. ![prMerged] Merged PR [#1](https://github.com/PuneetGopinath/recent-activity-template/pull/1) in [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template)
-2. ![prOpened] Opened PR [#1](https://github.com/PuneetGopinath/recent-activity-template/pull/1) in [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template)
-3. ![prMerged] Merged PR [#35](https://github.com/Readme-Workflows/recent-activity/pull/35) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![prOpened] Opened PR [#34](https://github.com/Readme-Workflows/recent-activity/pull/34) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![prMerged] Merged PR [#33](https://github.com/Readme-Workflows/recent-activity/pull/33) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![prMerged] Merged PR [#32](https://github.com/Readme-Workflows/recent-activity/pull/32) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![prOpened] Opened PR [#32](https://github.com/Readme-Workflows/recent-activity/pull/32) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![prMerged] Merged PR [#25](https://github.com/Readme-Workflows/recent-activity/pull/25) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![comment] Commented on [#46](https://github.com/jamesgeorge007/github-activity-readme/issues/46) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-10. ![prMerged] Merged PR [#25](https://github.com/Readme-Workflows/recent-activity/pull/25) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:start-->
 
 ### 🗄 My projects:
 
@@ -69,7 +58,7 @@
 - Created my github account **0** years ago.
 - Contributed to **17** repositories.
 - Own **5** repositories and **1** gists.
-- Pushed **205** commits to github.
+- Pushed **214** commits to github.
 - Opened **10** issues.
 - Submitted **34** pull requests.
 - Received **14** stars from github users.
