@@ -22,6 +22,10 @@ jobs:
         with:
           README_FILE: "./TEMPLATE.md"
           MAX_LINES: 10
+          # Dates
+          DATE_STRING: "Last Updated: {DATE} Indian Standard Time"
+          TIMEZONE_OFFSET: "+5:30"
+          # Events
           DISABLE_EVENTS: "comments"
           COMMENTS_ACTIVITY: "![comment] Commented on {ID} in {REPO}"
           ISSUE_OPENED: "![issueOpened] Opened issue {ID} in {REPO}"
