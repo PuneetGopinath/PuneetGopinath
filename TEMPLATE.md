@@ -37,14 +37,14 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 19th, 2021, 6:30:16 AM Indian Standard Time
+Last Updated: Wednesday, May 19th, 2021, 5:59:31 PM Indian Standard Time
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#41](https://github.com/Readme-Workflows/recent-activity/pull/41) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![prMerged] Merged PR [#40](https://github.com/Readme-Workflows/recent-activity/pull/40) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![prMerged] Merged PR [#39](https://github.com/Readme-Workflows/recent-activity/pull/39) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![prMerged] Merged PR [#38](https://github.com/Readme-Workflows/recent-activity/pull/38) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![prMerged] Merged PR [#37](https://github.com/Readme-Workflows/recent-activity/pull/37) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![issueClosed] Closed issue [#1](https://github.com/PuneetGopinath/activity-test/issues/1) in [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test)
+2. ![issueOpened] Opened issue [#1](https://github.com/PuneetGopinath/activity-test/issues/1) in [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test)
+3. ![prMerged] Merged PR [#41](https://github.com/Readme-Workflows/recent-activity/pull/41) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![prMerged] Merged PR [#40](https://github.com/Readme-Workflows/recent-activity/pull/40) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![prMerged] Merged PR [#39](https://github.com/Readme-Workflows/recent-activity/pull/39) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 6. ![prOpened] Opened PR [#37](https://github.com/Readme-Workflows/recent-activity/pull/37) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 7. ![prMerged] Merged PR [#36](https://github.com/Readme-Workflows/recent-activity/pull/36) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 8. ![prMerged] Merged PR [#1](https://github.com/PuneetGopinath/recent-activity-template/pull/1) in [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template)
