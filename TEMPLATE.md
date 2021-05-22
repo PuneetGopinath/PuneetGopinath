@@ -66,12 +66,12 @@ Last Updated: Thursday, May 20th, 2021, 6:28:18 AM Indian Standard Time
 - Submitted **{{ PULL_REQUESTS }}** pull requests.
 - Received **{{ STARS }}** stars from github users.
 
-[issueopened]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/IssueOpened.svg
-[issueclosed]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/IssueClosed.svg
-[propened]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/PullRequestOpened.svg
-[prclosed]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/PullRequestClosed.svg
-[prmerged]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/PullRequestMerged.svg
-[comment]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/Comment.svg
+[issueopened]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/IssueOpened.svg
+[issueclosed]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/IssueClosed.svg
+[propened]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/PullRequestOpened.svg
+[prclosed]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/PullRequestClosed.svg
+[prmerged]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/PullRequestMerged.svg
+[comment]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/Comment.svg
 
 <!--
 **PuneetGopinath/PuneetGopinath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
