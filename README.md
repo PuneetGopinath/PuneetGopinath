@@ -37,15 +37,15 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 20th, 2021, 6:28:18 AM Indian Standard Time
+Last Updated: Saturday, May 22nd, 2021, 9:24:51 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#43](https://github.com/Readme-Workflows/recent-activity/pull/43) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![prMerged] Merged PR [#42](https://github.com/Readme-Workflows/recent-activity/pull/42) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![prOpened] Opened PR [#42](https://github.com/Readme-Workflows/recent-activity/pull/42) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![issueClosed] Closed issue [#1](https://github.com/PuneetGopinath/activity-test/issues/1) in [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test)
-5. ![issueOpened] Opened issue [#1](https://github.com/PuneetGopinath/activity-test/issues/1) in [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test)
-6. ![prMerged] Merged PR [#41](https://github.com/Readme-Workflows/recent-activity/pull/41) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![prOpened] Opened PR [#6848](https://github.com/termux/termux-packages/pull/6848) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. ![prOpened] Opened PR [#1](https://github.com/StevenJDH/StevenJDH/pull/1) in [StevenJDH/StevenJDH](https://github.com/StevenJDH/StevenJDH)
+3. ![prMerged] Merged PR [#1](https://github.com/Readme-Workflows/readme-workflows.github.io/pull/1) in [Readme-Workflows/readme-workflows.github.io](https://github.com/Readme-Workflows/readme-workflows.github.io)
+4. ![prOpened] Opened PR [#1](https://github.com/Readme-Workflows/readme-workflows.github.io/pull/1) in [Readme-Workflows/readme-workflows.github.io](https://github.com/Readme-Workflows/readme-workflows.github.io)
+5. ![prMerged] Merged PR [#48](https://github.com/Readme-Workflows/recent-activity/pull/48) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![prOpened] Opened PR [#48](https://github.com/Readme-Workflows/recent-activity/pull/48) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 7. ![prMerged] Merged PR [#36](https://github.com/Readme-Workflows/recent-activity/pull/36) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 8. ![prMerged] Merged PR [#1](https://github.com/PuneetGopinath/recent-activity-template/pull/1) in [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template)
 9. ![prOpened] Opened PR [#1](https://github.com/PuneetGopinath/recent-activity-template/pull/1) in [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template)
@@ -59,19 +59,19 @@ Last Updated: Thursday, May 20th, 2021, 6:28:18 AM Indian Standard Time
 ### 🚀 Stats
 
 - Created my github account **0** years ago.
-- Contributed to **17** repositories.
-- Own **6** repositories and **1** gists.
-- Pushed **243** commits to github.
+- Contributed to **19** repositories.
+- Own **7** repositories and **1** gists.
+- Pushed **298** commits to github.
 - Opened **11** issues.
-- Submitted **35** pull requests.
-- Received **15** stars from github users.
+- Submitted **41** pull requests.
+- Received **16** stars from github users.
 
-[issueopened]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/IssueOpened.svg
-[issueclosed]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/IssueClosed.svg
-[propened]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/PullRequestOpened.svg
-[prclosed]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/PullRequestClosed.svg
-[prmerged]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/PullRequestMerged.svg
-[comment]: https://github.com/PuneetGopinath/PuneetGopinath/raw/main/images/Comment.svg
+[issueopened]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/IssueOpened.svg
+[issueclosed]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/IssueClosed.svg
+[propened]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/PullRequestOpened.svg
+[prclosed]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/PullRequestClosed.svg
+[prmerged]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/PullRequestMerged.svg
+[comment]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/Comment.svg
 
 <!--
 **PuneetGopinath/PuneetGopinath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
