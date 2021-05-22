@@ -37,18 +37,18 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 22nd, 2021, 9:24:51 AM (Indian Standard Time)
+Last Updated: Saturday, May 22nd, 2021, 5:59:42 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#6848](https://github.com/termux/termux-packages/pull/6848) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. ![prOpened] Opened PR [#1](https://github.com/StevenJDH/StevenJDH/pull/1) in [StevenJDH/StevenJDH](https://github.com/StevenJDH/StevenJDH)
-3. ![prMerged] Merged PR [#1](https://github.com/Readme-Workflows/readme-workflows.github.io/pull/1) in [Readme-Workflows/readme-workflows.github.io](https://github.com/Readme-Workflows/readme-workflows.github.io)
-4. ![prOpened] Opened PR [#1](https://github.com/Readme-Workflows/readme-workflows.github.io/pull/1) in [Readme-Workflows/readme-workflows.github.io](https://github.com/Readme-Workflows/readme-workflows.github.io)
-5. ![prMerged] Merged PR [#48](https://github.com/Readme-Workflows/recent-activity/pull/48) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![prOpened] Opened PR [#48](https://github.com/Readme-Workflows/recent-activity/pull/48) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![prMerged] Merged PR [#36](https://github.com/Readme-Workflows/recent-activity/pull/36) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![prMerged] Merged PR [#1](https://github.com/PuneetGopinath/recent-activity-template/pull/1) in [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template)
-9. ![prOpened] Opened PR [#1](https://github.com/PuneetGopinath/recent-activity-template/pull/1) in [PuneetGopinath/recent-activity-template](https://github.com/PuneetGopinath/recent-activity-template)
+1. ![prOpened] Opened PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![prMerged] Merged PR [#50](https://github.com/Readme-Workflows/recent-activity/pull/50) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![issueOpened] Opened issue [#52](https://github.com/Readme-Workflows/recent-activity/issues/52) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![issueClosed] Closed issue [#1](https://github.com/Readme-Workflows/Readme-Icons/issues/1) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+5. ![prOpened] Opened PR [#3](https://github.com/Readme-Workflows/Readme-Icons/pull/3) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+6. ![prOpened] Opened PR [#2](https://github.com/Readme-Workflows/Readme-Icons/pull/2) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+7. ![issueOpened] Opened issue [#1](https://github.com/Readme-Workflows/Readme-Icons/issues/1) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+8. ![prOpened] Opened PR [#6848](https://github.com/termux/termux-packages/pull/6848) in [termux/termux-packages](https://github.com/termux/termux-packages)
+9. ![prOpened] Opened PR [#1](https://github.com/StevenJDH/StevenJDH/pull/1) in [StevenJDH/StevenJDH](https://github.com/StevenJDH/StevenJDH)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🗄 My projects:
@@ -59,11 +59,11 @@ Last Updated: Saturday, May 22nd, 2021, 9:24:51 AM (Indian Standard Time)
 ### 🚀 Stats
 
 - Created my github account **0** years ago.
-- Contributed to **19** repositories.
+- Contributed to **20** repositories.
 - Own **7** repositories and **1** gists.
-- Pushed **298** commits to github.
-- Opened **11** issues.
-- Submitted **41** pull requests.
+- Pushed **311** commits to github.
+- Opened **13** issues.
+- Submitted **44** pull requests.
 - Received **16** stars from github users.
 
 [issueopened]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/IssueOpened.svg
