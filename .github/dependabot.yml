@@ -5,10 +5,11 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
-      day: "sunday"
-      time: "12:00"
-      timezone: "Asia/Kolkata"
+      #interval: "weekly"
+      #day: "sunday"
+      #time: "12:00"
+      #timezone: "Asia/Kolkata"
+      interval: "daily"
     labels:
       - "github actions"
       - "dependencies"
