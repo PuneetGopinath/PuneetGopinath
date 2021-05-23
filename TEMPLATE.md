@@ -37,18 +37,18 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 23rd, 2021, 1:04:45 PM (Indian Standard Time)
+Last Updated: Sunday, May 23rd, 2021, 2:45:28 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#4](https://github.com/Readme-Workflows/Readme-Icons/pull/4) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-2. ![prClosed] Closed PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![prOpened] Opened PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![prMerged] Merged PR [#50](https://github.com/Readme-Workflows/recent-activity/pull/50) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![prOpened] Opened PR [#3](https://github.com/Readme-Workflows/Readme-Icons/pull/3) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-6. ![prOpened] Opened PR [#2](https://github.com/Readme-Workflows/Readme-Icons/pull/2) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-7. ![issueOpened] Opened issue [#1](https://github.com/Readme-Workflows/Readme-Icons/issues/1) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-8. ![prOpened] Opened PR [#6848](https://github.com/termux/termux-packages/pull/6848) in [termux/termux-packages](https://github.com/termux/termux-packages)
-9. ![prOpened] Opened PR [#1](https://github.com/StevenJDH/StevenJDH/pull/1) in [StevenJDH/StevenJDH](https://github.com/StevenJDH/StevenJDH)
+1. ![comment] Commented on [#2](https://github.com/PuneetGopinath/PuneetGopinath/pull/2#issuecomment-846530432) in [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
+2. ![prMerged] Merged PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![issueClosed] Closed issue [#52](https://github.com/Readme-Workflows/recent-activity/issues/52) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846526448) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846526228) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. 📖 Created new wiki page [_Footer](https://github.com/Readme-Workflows/recent-activity/wiki/_Footer) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846525935) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846525077) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![comment] Commented on [#4](https://github.com/Readme-Workflows/Readme-Icons/pull/4#issuecomment-846519197) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🗄 My projects:
