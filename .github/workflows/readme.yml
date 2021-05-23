@@ -19,20 +19,6 @@ jobs:
         uses: Readme-Workflows/recent-activity@v1.3.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          README_FILE: "./TEMPLATE.md"
-          MAX_LINES: 10
-          # Dates
-          DATE_STRING: "Last Updated: {DATE} (Indian Standard Time)"
-          TIMEZONE_OFFSET: "+5:30"
-          # Events
-          DISABLE_EVENTS: "comments"
-          COMMENTS_ACTIVITY: "![comment] Commented on {ID} in {REPO}"
-          ISSUE_OPENED: "![issueOpened] Opened issue {ID} in {REPO}"
-          ISSUE_CLOSED: "![issueClosed] Closed issue {ID} in {REPO}"
-          PR_OPENED: "![prOpened] Opened PR {ID} in {REPO}"
-          PR_CLOSED: "![prClosed] Closed PR {ID} in {REPO}"
-          PR_MERGED: "![prMerged] Merged PR {ID} in {REPO}"
   stats:
     needs: activity
     name: Update README with stats
