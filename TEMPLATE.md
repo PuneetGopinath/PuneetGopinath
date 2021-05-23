@@ -37,13 +37,13 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 23rd, 2021, 6:39:15 AM (Indian Standard Time)
+Last Updated: Sunday, May 23rd, 2021, 1:04:45 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![prMerged] Merged PR [#50](https://github.com/Readme-Workflows/recent-activity/pull/50) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![issueOpened] Opened issue [#52](https://github.com/Readme-Workflows/recent-activity/issues/52) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![issueClosed] Closed issue [#1](https://github.com/Readme-Workflows/Readme-Icons/issues/1) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+1. ![prOpened] Opened PR [#4](https://github.com/Readme-Workflows/Readme-Icons/pull/4) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+2. ![prClosed] Closed PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![prOpened] Opened PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+4. ![prMerged] Merged PR [#50](https://github.com/Readme-Workflows/recent-activity/pull/50) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 5. ![prOpened] Opened PR [#3](https://github.com/Readme-Workflows/Readme-Icons/pull/3) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
 6. ![prOpened] Opened PR [#2](https://github.com/Readme-Workflows/Readme-Icons/pull/2) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
 7. ![issueOpened] Opened issue [#1](https://github.com/Readme-Workflows/Readme-Icons/issues/1) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
