@@ -18,7 +18,7 @@ messages:
   pr_closed: "![prClosed] Closed PR {ID} in {REPO}"
   pr_merged: "![prMerged] Merged PR {ID} in {REPO}"
   create_repo: "![repoCreated] Created new repository {REPO}"
-  fork_repo: "🔱 Forked {FORK} from {REPO}"
+  fork_repo: "![fork] Forked {FORK} from {REPO}"
   wiki_create: "![wiki] Created new wiki page {WIKI} in {REPO}"
   added_member: "🤝 Became collaborator on {REPO}"
   changes_approved: "![approved] Approved {ID} in {REPO}"
