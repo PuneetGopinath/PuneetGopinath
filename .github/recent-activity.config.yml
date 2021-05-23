@@ -1,0 +1,27 @@
+settings:
+  #username: "Readme-Workflows" # Replace with your username or comment out this line
+  commit_msg: "⚡ Update README with the recent activity"
+  max_lines: 10
+  readme_file: "./TEMPLATE.md"
+  #disabled_events:
+  #  - "comments"
+  #url_text: "{REPO}{ID}"
+  date:
+    timezone: "GMT+5:30"
+    text: "Last Updated: {DATE} (Indian Standard Time)"
+    #format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+messages:
+  comments: "![comment] Commented on {ID} in {REPO}"
+  issue_opened: "![issueOpened] Opened issue {ID} in {REPO}"
+  issue_closed: "![issueClosed] Closed issue {ID} in {REPO}"
+  pr_opened: "![prOpened] Opened PR {ID} in {REPO}"
+  pr_closed: "![prClosed] Closed PR {ID} in {REPO}"
+  pr_merged: "![prMerged] Merged PR {ID} in {REPO}"
+  create_repo: "📔 Created new repository {REPO}"
+  fork_repo: "🔱 Forked {FORK} from {REPO}"
+  wiki_create: "📖 Created new wiki page {WIKI} in {REPO}"
+  added_member: "🤝 Became collaborator on {REPO}"
+  changes_approved: "👍 Approved {ID} in {REPO}"
+  changes_requested: "🔴 Requested changes in {ID} in {REPO}"
+  new_release: "✌️ Released {ID} in {REPO}"
+  new_star: "⭐ Starred {REPO}"
