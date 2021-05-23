@@ -66,12 +66,12 @@ Last Updated: Sunday, May 23rd, 2021, 6:39:15 AM (Indian Standard Time)
 - Submitted **{{ PULL_REQUESTS }}** pull requests.
 - Received **{{ STARS }}** stars from github users.
 
-[issueopened]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/IssueOpened.svg
-[issueclosed]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/IssueClosed.svg
-[propened]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/PullRequestOpened.svg
-[prclosed]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/PullRequestClosed.svg
-[prmerged]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/PullRequestMerged.svg
-[comment]: https://github.com/Readme-Workflows/Readme-Icons/raw/main/icons/octicons/Comment.svg
+[issueopened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg
+[issueclosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg
+[propened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg
+[prclosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
+[prmerged]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg
+[comment]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg
 
 <!--
 **PuneetGopinath/PuneetGopinath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
