@@ -37,18 +37,18 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 23rd, 2021, 2:45:28 PM (Indian Standard Time)
+Last Updated: Sunday, May 23rd, 2021, 2:52:37 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![comment] Commented on [#2](https://github.com/PuneetGopinath/PuneetGopinath/pull/2#issuecomment-846530432) in [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
+1. ![star] Starred [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
 2. ![prMerged] Merged PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 3. ![issueClosed] Closed issue [#52](https://github.com/Readme-Workflows/recent-activity/issues/52) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846526448) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846526228) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. 📖 Created new wiki page [_Footer](https://github.com/Readme-Workflows/recent-activity/wiki/_Footer) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846525935) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![comment] Commented on [#53](https://github.com/Readme-Workflows/recent-activity/pull/53#issuecomment-846525077) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![comment] Commented on [#4](https://github.com/Readme-Workflows/Readme-Icons/pull/4#issuecomment-846519197) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+4. ![wiki] Created new wiki page [_Footer](https://github.com/Readme-Workflows/recent-activity/wiki/_Footer) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![prOpened] Opened PR [#4](https://github.com/Readme-Workflows/Readme-Icons/pull/4) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+6. ![repoCreated] Created new repository [Readme-Workflows/.github](https://github.com/Readme-Workflows/.github)
+7. ![approved] Approved [#56](https://github.com/Readme-Workflows/recent-activity/pull/56#pullrequestreview-666224202) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![prClosed] Closed PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![prOpened] Opened PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🗄 My projects:
@@ -61,17 +61,28 @@ Last Updated: Sunday, May 23rd, 2021, 2:45:28 PM (Indian Standard Time)
 - Created my github account **0** years ago.
 - Contributed to **21** repositories.
 - Own **8** repositories and **1** gists.
-- Pushed **334** commits to github.
+- Pushed **336** commits to github.
 - Opened **13** issues.
 - Submitted **45** pull requests.
 - Received **17** stars from github users.
 
-[issueopened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpened.svg
-[issueclosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosed.svg
-[propened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg
-[prclosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
-[prmerged]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg
+<!-- Badges -->
+[issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
+[issueClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueClosedOld.svg
+
+[prOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestOpened.svg
+[prClosed]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestClosed.svg
+[prMerged]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/PullRequestMerged.svg
+
 [comment]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Comment.svg
+
+[changesRequested]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg
+[approved]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ApprovedChanges.svg
+[repoCreated]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Repository.svg
+
+[release]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Release.svg
+[star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
+[wiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg
 
 <!--
 **PuneetGopinath/PuneetGopinath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
