@@ -37,18 +37,18 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, May 23rd, 2021, 5:59:29 PM (Indian Standard Time)
+Last Updated: Monday, May 24th, 2021, 6:36:55 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![approved] Approved [#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9#pullrequestreview-666262011) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-2. ![prOpened] Opened PR [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-3. ![fork] Forked [PuneetGopinath/abhijoshi2k](https://github.com/PuneetGopinath/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-4. ![approved] Approved [#5](https://github.com/Readme-Workflows/Readme-Icons/pull/5#pullrequestreview-666248529) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-5. ![star] Starred [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-6. ![prMerged] Merged PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![issueClosed] Closed issue [#52](https://github.com/Readme-Workflows/recent-activity/issues/52) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-8. ![wiki] Created new wiki page [_Footer](https://github.com/Readme-Workflows/recent-activity/wiki/_Footer) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![prOpened] Opened PR [#4](https://github.com/Readme-Workflows/Readme-Icons/pull/4) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+1. ![prOpened] Opened PR [#10](https://github.com/Readme-Workflows/Readme-Icons/pull/10) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+2. ![approved] Approved [#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9#pullrequestreview-666264582) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+3. ![approved] Approved [#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9#pullrequestreview-666262011) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+4. ![prOpened] Opened PR [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+5. ![fork] Forked [PuneetGopinath/abhijoshi2k](https://github.com/PuneetGopinath/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+6. ![approved] Approved [#5](https://github.com/Readme-Workflows/Readme-Icons/pull/5#pullrequestreview-666248529) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+7. ![star] Starred [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+8. ![prMerged] Merged PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![issueClosed] Closed issue [#52](https://github.com/Readme-Workflows/recent-activity/issues/52) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🗄 My projects:
@@ -61,9 +61,9 @@ Last Updated: Sunday, May 23rd, 2021, 5:59:29 PM (Indian Standard Time)
 - Created my github account **0** years ago.
 - Contributed to **22** repositories.
 - Own **8** repositories and **1** gists.
-- Pushed **341** commits to github.
+- Pushed **345** commits to github.
 - Opened **13** issues.
-- Submitted **46** pull requests.
+- Submitted **47** pull requests.
 - Received **17** stars from github users.
 
 <!-- Badges -->
