@@ -37,18 +37,18 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 24th, 2021, 6:36:55 AM (Indian Standard Time)
+Last Updated: Monday, May 24th, 2021, 9:35:21 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#10](https://github.com/Readme-Workflows/Readme-Icons/pull/10) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-2. ![approved] Approved [#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9#pullrequestreview-666264582) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-3. ![approved] Approved [#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9#pullrequestreview-666262011) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-4. ![prOpened] Opened PR [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-5. ![fork] Forked [PuneetGopinath/abhijoshi2k](https://github.com/PuneetGopinath/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-6. ![approved] Approved [#5](https://github.com/Readme-Workflows/Readme-Icons/pull/5#pullrequestreview-666248529) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-7. ![star] Starred [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-8. ![prMerged] Merged PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-9. ![issueClosed] Closed issue [#52](https://github.com/Readme-Workflows/recent-activity/issues/52) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![prOpened] Opened PR [#4](https://github.com/abhijoshi2k/abhijoshi2k/pull/4) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+2. ![prOpened] Opened PR [#10](https://github.com/Readme-Workflows/Readme-Icons/pull/10) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+3. ![approved] Approved [#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9#pullrequestreview-666264582) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+4. ![approved] Approved [#9](https://github.com/Readme-Workflows/Readme-Icons/pull/9#pullrequestreview-666262011) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+5. ![prOpened] Opened PR [#3](https://github.com/abhijoshi2k/abhijoshi2k/pull/3) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+6. ![fork] Forked [PuneetGopinath/abhijoshi2k](https://github.com/PuneetGopinath/abhijoshi2k) from [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
+7. ![approved] Approved [#5](https://github.com/Readme-Workflows/Readme-Icons/pull/5#pullrequestreview-666248529) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+8. ![star] Starred [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+9. ![prMerged] Merged PR [#53](https://github.com/Readme-Workflows/recent-activity/pull/53) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🗄 My projects:
