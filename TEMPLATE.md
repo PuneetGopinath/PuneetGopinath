@@ -84,6 +84,7 @@ Last Updated: Monday, May 24th, 2021, 6:36:55 AM (Indian Standard Time)
 [star]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepository.svg
 [wiki]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/Wiki.svg
 [fork]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/ForkedRepository.svg
+[people]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/People.svg
 
 <!--
 **PuneetGopinath/PuneetGopinath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
