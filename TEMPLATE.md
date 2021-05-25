@@ -37,18 +37,18 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 24th, 2021, 6:02:06 PM (Indian Standard Time)
+Last Updated: Tuesday, May 25th, 2021, 6:34:10 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#59](https://github.com/Readme-Workflows/recent-activity/pull/59) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-2. ![issueClosed] Closed issue [#60](https://github.com/Readme-Workflows/recent-activity/issues/60) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![people] Became collaborator on [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test)
-4. ![issueOpened] Opened issue [#60](https://github.com/Readme-Workflows/recent-activity/issues/60) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-5. ![prOpened] Opened PR [#59](https://github.com/Readme-Workflows/recent-activity/pull/59) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-6. ![prOpened] Opened PR [#1](https://github.com/Readme-Workflows/.github/pull/1) in [Readme-Workflows/.github](https://github.com/Readme-Workflows/.github)
-7. ![star] Starred [Readme-Workflows/.github](https://github.com/Readme-Workflows/.github)
-8. ![prOpened] Opened PR [#4](https://github.com/abhijoshi2k/abhijoshi2k/pull/4) in [abhijoshi2k/abhijoshi2k](https://github.com/abhijoshi2k/abhijoshi2k)
-9. ![prOpened] Opened PR [#10](https://github.com/Readme-Workflows/Readme-Icons/pull/10) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+1. ![prMerged] Merged PR [#62](https://github.com/Readme-Workflows/recent-activity/pull/62) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![prOpened] Opened PR [#62](https://github.com/Readme-Workflows/recent-activity/pull/62) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![prMerged] Merged PR [#1](https://github.com/Readme-Workflows/.github/pull/1) in [Readme-Workflows/.github](https://github.com/Readme-Workflows/.github)
+4. ![prMerged] Merged PR [#59](https://github.com/Readme-Workflows/recent-activity/pull/59) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+5. ![issueClosed] Closed issue [#60](https://github.com/Readme-Workflows/recent-activity/issues/60) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![people] Became collaborator on [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test)
+7. ![issueOpened] Opened issue [#60](https://github.com/Readme-Workflows/recent-activity/issues/60) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![prOpened] Opened PR [#59](https://github.com/Readme-Workflows/recent-activity/pull/59) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+9. ![prOpened] Opened PR [#1](https://github.com/Readme-Workflows/.github/pull/1) in [Readme-Workflows/.github](https://github.com/Readme-Workflows/.github)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🗄 My projects:
