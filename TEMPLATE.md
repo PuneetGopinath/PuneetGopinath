@@ -37,17 +37,17 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 26th, 2021, 6:48:27 AM (Indian Standard Time)
+Last Updated: Wednesday, May 26th, 2021, 6:04:47 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#12](https://github.com/Readme-Workflows/Readme-Icons/pull/12) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-2. ![star] Starred [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
-3. ![issueClosed] Closed issue [#254](https://github.com/kamranahmedse/roadmap.sh/issues/254) in [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh)
-4. ![repoCreated] Created new repository [PuneetGopinath/test](https://github.com/PuneetGopinath/test)
-5. ![star] Starred [PuneetGopinath/termux-packages](https://github.com/PuneetGopinath/termux-packages)
-6. ![star] Starred [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
-7. ![repoCreated] Created new repository [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
-8. ![prMerged] Merged PR [#62](https://github.com/Readme-Workflows/recent-activity/pull/62) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![prOpened] Opened PR [#13](https://github.com/Readme-Workflows/Readme-Icons/pull/13) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+2. ![prOpened] Opened PR [#12](https://github.com/Readme-Workflows/Readme-Icons/pull/12) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+3. ![star] Starred [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
+4. ![issueClosed] Closed issue [#254](https://github.com/kamranahmedse/roadmap.sh/issues/254) in [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh)
+5. ![repoCreated] Created new repository [PuneetGopinath/test](https://github.com/PuneetGopinath/test)
+6. ![star] Starred [PuneetGopinath/termux-packages](https://github.com/PuneetGopinath/termux-packages)
+7. ![star] Starred [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
+8. ![repoCreated] Created new repository [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
 9. ![prOpened] Opened PR [#62](https://github.com/Readme-Workflows/recent-activity/pull/62) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
