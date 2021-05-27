@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneetgopinath&show_icons=true&locale=en&theme=dark" alt="puneetgopinath" /></p>
 
@@ -36,17 +36,17 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 27th, 2021, 4:20:21 PM (Indian Standard Time)
+Last Updated: Thursday, May 27th, 2021, 6:12:53 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#4](https://github.com/Lorenzo0111/Lorenzo0111/pull/4) in [Lorenzo0111/Lorenzo0111](https://github.com/Lorenzo0111/Lorenzo0111)
-2. ![fork] Forked [PuneetGopinath/Lorenzo0111](https://github.com/PuneetGopinath/Lorenzo0111) from [Lorenzo0111/Lorenzo0111](https://github.com/Lorenzo0111/Lorenzo0111)
-3. ![release] Released [Fix bug](https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.3) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
-4. ![release] Released [Bump version](https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.2) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
-5. ![release] Released [Fix bug](https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.1) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
-6. ![fork] Forked [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![fork] Forked [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity) from [Lorenzo0111/recent-activity](https://github.com/Lorenzo0111/recent-activity)
-8. ![changesRequested] Requested changes in [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-669647855) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![prMerged] Merged PR [#3](https://github.com/PuneetGopinath/switch-theme-js/pull/3) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
+2. ![prOpened] Opened PR [#4](https://github.com/Lorenzo0111/Lorenzo0111/pull/4) in [Lorenzo0111/Lorenzo0111](https://github.com/Lorenzo0111/Lorenzo0111)
+3. ![fork] Forked [PuneetGopinath/Lorenzo0111](https://github.com/PuneetGopinath/Lorenzo0111) from [Lorenzo0111/Lorenzo0111](https://github.com/Lorenzo0111/Lorenzo0111)
+4. ![release] Released [Fix bug](https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.3) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
+5. ![release] Released [Bump version](https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.2) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
+6. ![release] Released [Fix bug](https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.1) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
+7. ![fork] Forked [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![fork] Forked [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity) from [Lorenzo0111/recent-activity](https://github.com/Lorenzo0111/recent-activity)
 9. ![changesRequested] Requested changes in [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-669647855) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
@@ -59,11 +59,11 @@ Last Updated: Thursday, May 27th, 2021, 4:20:21 PM (Indian Standard Time)
 
 - Created my github account **0** years ago.
 - Contributed to **23** repositories.
-- Own **9** repositories and **1** gists.
-- Pushed **507** commits to github.
+- Own **9** repositories and **2** gists.
+- Pushed **511** commits to github.
 - Opened **14** issues.
 - Submitted **55** pull requests.
-- Received **18** stars from github users.
+- Received **19** stars from github users.
 
 <!-- Badges -->
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
