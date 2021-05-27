@@ -37,18 +37,18 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 26th, 2021, 6:04:47 PM (Indian Standard Time)
+Last Updated: Thursday, May 27th, 2021, 6:55:56 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#13](https://github.com/Readme-Workflows/Readme-Icons/pull/13) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-2. ![prOpened] Opened PR [#12](https://github.com/Readme-Workflows/Readme-Icons/pull/12) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
-3. ![star] Starred [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
-4. ![issueClosed] Closed issue [#254](https://github.com/kamranahmedse/roadmap.sh/issues/254) in [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh)
-5. ![repoCreated] Created new repository [PuneetGopinath/test](https://github.com/PuneetGopinath/test)
-6. ![star] Starred [PuneetGopinath/termux-packages](https://github.com/PuneetGopinath/termux-packages)
+1. ![changesRequested] Requested changes in [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-669647855) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+2. ![changesRequested] Requested changes in [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-669647855) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. ![prMerged] Merged PR [#2](https://github.com/PuneetGopinath/switch-theme-js/pull/2) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
+4. ![prOpened] Opened PR [#2](https://github.com/PuneetGopinath/switch-theme-js/pull/2) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
+5. ![prOpened] Opened PR [#13](https://github.com/Readme-Workflows/Readme-Icons/pull/13) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+6. ![prOpened] Opened PR [#12](https://github.com/Readme-Workflows/Readme-Icons/pull/12) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
 7. ![star] Starred [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
-8. ![repoCreated] Created new repository [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
-9. ![prOpened] Opened PR [#62](https://github.com/Readme-Workflows/recent-activity/pull/62) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![issueClosed] Closed issue [#254](https://github.com/kamranahmedse/roadmap.sh/issues/254) in [kamranahmedse/roadmap.sh](https://github.com/kamranahmedse/roadmap.sh)
+9. ![repoCreated] Created new repository [PuneetGopinath/test](https://github.com/PuneetGopinath/test)
 <!--RECENT_ACTIVITY:end-->
 
 ### 🗄 My projects:
@@ -61,9 +61,9 @@ Last Updated: Wednesday, May 26th, 2021, 6:04:47 PM (Indian Standard Time)
 - Created my github account **0** years ago.
 - Contributed to **22** repositories.
 - Own **9** repositories and **1** gists.
-- Pushed **445** commits to github.
+- Pushed **479** commits to github.
 - Opened **14** issues.
-- Submitted **53** pull requests.
+- Submitted **54** pull requests.
 - Received **18** stars from github users.
 
 <!-- Badges -->
