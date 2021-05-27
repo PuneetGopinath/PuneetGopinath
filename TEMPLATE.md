@@ -36,17 +36,17 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 27th, 2021, 4:20:21 PM (Indian Standard Time)
+Last Updated: Thursday, May 27th, 2021, 6:12:53 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#4](https://github.com/Lorenzo0111/Lorenzo0111/pull/4) in [Lorenzo0111/Lorenzo0111](https://github.com/Lorenzo0111/Lorenzo0111)
-2. ![fork] Forked [PuneetGopinath/Lorenzo0111](https://github.com/PuneetGopinath/Lorenzo0111) from [Lorenzo0111/Lorenzo0111](https://github.com/Lorenzo0111/Lorenzo0111)
-3. ![release] Released [Fix bug](https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.3) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
-4. ![release] Released [Bump version](https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.2) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
-5. ![release] Released [Fix bug](https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.1) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
-6. ![fork] Forked [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![fork] Forked [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity) from [Lorenzo0111/recent-activity](https://github.com/Lorenzo0111/recent-activity)
-8. ![changesRequested] Requested changes in [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-669647855) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![prMerged] Merged PR [#3](https://github.com/PuneetGopinath/switch-theme-js/pull/3) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
+2. ![prOpened] Opened PR [#4](https://github.com/Lorenzo0111/Lorenzo0111/pull/4) in [Lorenzo0111/Lorenzo0111](https://github.com/Lorenzo0111/Lorenzo0111)
+3. ![fork] Forked [PuneetGopinath/Lorenzo0111](https://github.com/PuneetGopinath/Lorenzo0111) from [Lorenzo0111/Lorenzo0111](https://github.com/Lorenzo0111/Lorenzo0111)
+4. ![release] Released [Fix bug](https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.3) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
+5. ![release] Released [Bump version](https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.2) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
+6. ![release] Released [Fix bug](https://github.com/PuneetGopinath/switch-theme-js/releases/tag/v0.1.1) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
+7. ![fork] Forked [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+8. ![fork] Forked [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity) from [Lorenzo0111/recent-activity](https://github.com/Lorenzo0111/recent-activity)
 9. ![changesRequested] Requested changes in [#63](https://github.com/Readme-Workflows/recent-activity/pull/63#pullrequestreview-669647855) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 <!--RECENT_ACTIVITY:end-->
 
