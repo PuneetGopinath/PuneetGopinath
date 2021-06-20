@@ -36,15 +36,15 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 20th, 2021, 11:45:04 AM (Indian Standard Time)
+Last Updated: Sunday, June 20th, 2021, 5:48:15 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#26](https://github.com/Welcome-Bot/welcome-bot/pull/26) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prOpened] Opened PR [#26](https://github.com/Welcome-Bot/welcome-bot/pull/26) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prMerged] Merged PR [#25](https://github.com/Welcome-Bot/welcome-bot/pull/25) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prOpened] Opened PR [#25](https://github.com/Welcome-Bot/welcome-bot/pull/25) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![prOpened] Opened PR [#23](https://github.com/Welcome-Bot/welcome-bot/pull/23) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prOpened] Opened PR [#22](https://github.com/Welcome-Bot/welcome-bot/pull/22) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prOpened] Opened PR [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prClosed] Closed PR [#20](https://github.com/Readme-Workflows/Readme-Icons/pull/20) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
+3. ![prMerged] Merged PR [#26](https://github.com/Welcome-Bot/welcome-bot/pull/26) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prOpened] Opened PR [#26](https://github.com/Welcome-Bot/welcome-bot/pull/26) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![prMerged] Merged PR [#25](https://github.com/Welcome-Bot/welcome-bot/pull/25) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prOpened] Opened PR [#25](https://github.com/Welcome-Bot/welcome-bot/pull/25) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 7. ![fork] Forked [PuneetGopinath/pokemon](https://github.com/PuneetGopinath/pokemon) from [sindresorhus/pokemon](https://github.com/sindresorhus/pokemon)
 8. ![issueOpened] Opened issue [#54](https://github.com/sindresorhus/pokemon/issues/54) in [sindresorhus/pokemon](https://github.com/sindresorhus/pokemon)
 9. ![issueOpened] Opened issue [#19](https://github.com/Welcome-Bot/welcome-bot/issues/19) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
