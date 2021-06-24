@@ -36,13 +36,13 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 24th, 2021, 5:50:03 PM (Indian Standard Time)
+Last Updated: Thursday, June 24th, 2021, 11:45:55 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#33](https://github.com/Welcome-Bot/welcome-bot/pull/33) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![issueOpened] Opened issue [#31](https://github.com/Welcome-Bot/welcome-bot/issues/31) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prMerged] Merged PR [#3](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/3) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-4. ![prOpened] Opened PR [#30](https://github.com/Welcome-Bot/welcome-bot/pull/30) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![star] Starred [railwayapp/awesome-railway](https://github.com/railwayapp/awesome-railway)
+2. ![prOpened] Opened PR [#5](https://github.com/railwayapp/awesome-railway/pull/5) in [railwayapp/awesome-railway](https://github.com/railwayapp/awesome-railway)
+3. ![fork] Forked [PuneetGopinath/awesome-railway](https://github.com/PuneetGopinath/awesome-railway) from [railwayapp/awesome-railway](https://github.com/railwayapp/awesome-railway)
+4. ![prOpened] Opened PR [#33](https://github.com/Welcome-Bot/welcome-bot/pull/33) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 5. ![prMerged] Merged PR [#28](https://github.com/Welcome-Bot/welcome-bot/pull/28) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 6. ![prMerged] Merged PR [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 7. ![prOpened] Opened PR [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
