@@ -36,10 +36,10 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 24th, 2021, 11:46:28 AM (Indian Standard Time)
+Last Updated: Thursday, June 24th, 2021, 5:50:03 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#30](https://github.com/Welcome-Bot/welcome-bot/pull/30) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prOpened] Opened PR [#33](https://github.com/Welcome-Bot/welcome-bot/pull/33) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 2. ![issueOpened] Opened issue [#31](https://github.com/Welcome-Bot/welcome-bot/issues/31) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 3. ![prMerged] Merged PR [#3](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/3) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
 4. ![prOpened] Opened PR [#30](https://github.com/Welcome-Bot/welcome-bot/pull/30) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
