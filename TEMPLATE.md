@@ -36,12 +36,12 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 25th, 2021, 11:46:04 AM (Indian Standard Time)
+Last Updated: Friday, June 25th, 2021, 5:49:03 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [railwayapp/awesome-railway](https://github.com/railwayapp/awesome-railway)
-2. ![prOpened] Opened PR [#5](https://github.com/railwayapp/awesome-railway/pull/5) in [railwayapp/awesome-railway](https://github.com/railwayapp/awesome-railway)
-3. ![fork] Forked [PuneetGopinath/awesome-railway](https://github.com/PuneetGopinath/awesome-railway) from [railwayapp/awesome-railway](https://github.com/railwayapp/awesome-railway)
+1. ![release] Released [Bump version](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.2) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![release] Released [Bump version](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.2) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![release] Released [Discord Welcome bot v1.7.1 Released!](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.1) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 4. ![prOpened] Opened PR [#33](https://github.com/Welcome-Bot/welcome-bot/pull/33) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 5. ![prMerged] Merged PR [#28](https://github.com/Welcome-Bot/welcome-bot/pull/28) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 6. ![prMerged] Merged PR [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
