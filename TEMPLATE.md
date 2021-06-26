@@ -36,13 +36,13 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 26th, 2021, 6:09:03 AM (Indian Standard Time)
+Last Updated: Saturday, June 26th, 2021, 11:45:33 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![release] Released [Bump version](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.2) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![release] Released [Discord Welcome bot v1.7.3 Released!](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.3) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 2. ![release] Released [Bump version](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.2) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![release] Released [Discord Welcome bot v1.7.1 Released!](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.1) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prOpened] Opened PR [#33](https://github.com/Welcome-Bot/welcome-bot/pull/33) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![release] Released [Bump version](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.2) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![release] Released [Discord Welcome bot v1.7.1 Released!](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.1) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 5. ![prMerged] Merged PR [#28](https://github.com/Welcome-Bot/welcome-bot/pull/28) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 6. ![prMerged] Merged PR [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 7. ![prOpened] Opened PR [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
