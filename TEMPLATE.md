@@ -36,13 +36,13 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 27th, 2021, 11:45:34 AM (Indian Standard Time)
+Last Updated: Sunday, June 27th, 2021, 5:48:58 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] Opened issue [#111](https://github.com/crowdin/crowdin-api-client-js/issues/111) in [crowdin/crowdin-api-client-js](https://github.com/crowdin/crowdin-api-client-js)
-2. ![prOpened] Opened PR [#36](https://github.com/Welcome-Bot/welcome-bot/pull/36) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prMerged] Merged PR [#35](https://github.com/Welcome-Bot/welcome-bot/pull/35) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prOpened] Opened PR [#35](https://github.com/Welcome-Bot/welcome-bot/pull/35) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![release] Released [Discord Welcome bot v1.7.6 Released!](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.6) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prOpened] Opened PR [#38](https://github.com/Welcome-Bot/welcome-bot/pull/38) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![release] Released [Discord Welcome bot v1.7.5 Released!](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.5) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prMerged] Merged PR [#36](https://github.com/Welcome-Bot/welcome-bot/pull/36) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 5. ![prMerged] Merged PR [#33](https://github.com/Welcome-Bot/welcome-bot/pull/33) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 6. ![prMerged] Merged PR [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 7. ![prOpened] Opened PR [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
