@@ -36,14 +36,14 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 28th, 2021, 6:12:43 AM (Indian Standard Time)
+Last Updated: Monday, June 28th, 2021, 11:46:12 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#4](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/4) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
-2. ![release] Released [1.7.8](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.8) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prOpened] Opened PR [#39](https://github.com/Welcome-Bot/welcome-bot/pull/39) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prMerged] Merged PR [#38](https://github.com/Welcome-Bot/welcome-bot/pull/38) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![prMerged] Merged PR [#33](https://github.com/Welcome-Bot/welcome-bot/pull/33) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prClosed] Closed PR [#39](https://github.com/Welcome-Bot/welcome-bot/pull/39) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prMerged] Merged PR [#4](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/4) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+3. ![release] Released [1.7.8](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.8) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prOpened] Opened PR [#39](https://github.com/Welcome-Bot/welcome-bot/pull/39) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![prMerged] Merged PR [#38](https://github.com/Welcome-Bot/welcome-bot/pull/38) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 6. ![prMerged] Merged PR [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 7. ![prOpened] Opened PR [#27](https://github.com/Welcome-Bot/welcome-bot/pull/27) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 8. ![prClosed] Closed PR [#20](https://github.com/Readme-Workflows/Readme-Icons/pull/20) in [Readme-Workflows/Readme-Icons](https://github.com/Readme-Workflows/Readme-Icons)
