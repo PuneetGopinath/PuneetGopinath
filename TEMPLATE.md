@@ -36,11 +36,11 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 28th, 2021, 11:46:12 AM (Indian Standard Time)
+Last Updated: Monday, June 28th, 2021, 5:49:37 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prClosed] Closed PR [#39](https://github.com/Welcome-Bot/welcome-bot/pull/39) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prMerged] Merged PR [#4](https://github.com/Welcome-Bot/welcome-bot.github.io/pull/4) in [Welcome-Bot/welcome-bot.github.io](https://github.com/Welcome-Bot/welcome-bot.github.io)
+1. ![prMerged] Merged PR [#43](https://github.com/Welcome-Bot/welcome-bot/pull/43) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prOpened] Opened PR [#43](https://github.com/Welcome-Bot/welcome-bot/pull/43) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 3. ![release] Released [1.7.8](https://github.com/Welcome-Bot/welcome-bot/releases/tag/v1.7.8) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 4. ![prOpened] Opened PR [#39](https://github.com/Welcome-Bot/welcome-bot/pull/39) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 5. ![prMerged] Merged PR [#38](https://github.com/Welcome-Bot/welcome-bot/pull/38) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
