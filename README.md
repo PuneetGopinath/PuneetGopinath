@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Puneet Gopinath</h1>
-<h3 align="center">A backend developer from India</h3>
+<h3 align="center">A backend and frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetgopinath&label=Profile%20views&color=0e75b6&style=flat" alt="puneetgopinath" /> </p>
 
@@ -36,32 +36,33 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 27th, 2021, 6:13:33 AM (Indian Standard Time)
+Last Updated: Tuesday, July 27th, 2021, 7:52:18 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] Opened issue [#171](https://github.com/Welcome-Bot/welcome-bot/issues/171) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prMerged] Merged PR [#170](https://github.com/Welcome-Bot/welcome-bot/pull/170) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prMerged] Merged PR [#169](https://github.com/Welcome-Bot/welcome-bot/pull/169) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prMerged] Merged PR [#168](https://github.com/Welcome-Bot/welcome-bot/pull/168) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![prOpened] Opened PR [#168](https://github.com/Welcome-Bot/welcome-bot/pull/168) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prMerged] Merged PR [#166](https://github.com/Welcome-Bot/welcome-bot/pull/166) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![prMerged] Merged PR [#167](https://github.com/Welcome-Bot/welcome-bot/pull/167) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![prOpened] Opened PR [#167](https://github.com/Welcome-Bot/welcome-bot/pull/167) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![prOpened] Opened PR [#166](https://github.com/Welcome-Bot/welcome-bot/pull/166) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![issueOpened] Opened issue [#173](https://github.com/Welcome-Bot/welcome-bot/issues/173) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![issueOpened] Opened issue [#172](https://github.com/Welcome-Bot/welcome-bot/issues/172) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![issueOpened] Opened issue [#3860](https://github.com/ColorlibHQ/AdminLTE/issues/3860) in [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+4. ![issueOpened] Opened issue [#171](https://github.com/Welcome-Bot/welcome-bot/issues/171) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![prMerged] Merged PR [#170](https://github.com/Welcome-Bot/welcome-bot/pull/170) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prMerged] Merged PR [#169](https://github.com/Welcome-Bot/welcome-bot/pull/169) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![prMerged] Merged PR [#168](https://github.com/Welcome-Bot/welcome-bot/pull/168) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![prOpened] Opened PR [#168](https://github.com/Welcome-Bot/welcome-bot/pull/168) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![prMerged] Merged PR [#166](https://github.com/Welcome-Bot/welcome-bot/pull/166) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![prMerged] Merged PR [#167](https://github.com/Welcome-Bot/welcome-bot/pull/167) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
-
 ### 🗄 My projects:
 
 [![Recent Activity](https://github-readme-stats.vercel.app/api/pin/?username=Readme-Workflows&repo=recent-activity)](https://github.com/Readme-Workflows/recent-activity)
+[![Welcome-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Welcome-Bot&repo=welcome-bot)](https://github.com/Welcome-Bot/welcome-bot)
 [![Switch Theme JS](https://github-readme-stats.vercel.app/api/pin/?username=PuneetGopinath&repo=switch-theme-js)](https://github.com/PuneetGopinath/switch-theme-js)
 
 ### 🚀 Stats
 
 - Created my github account **0** years ago.
-- Contributed to **39** repositories.
+- Contributed to **40** repositories.
 - Own **18** repositories and **3** gists.
-- Pushed **1417** commits to github.
-- Opened **33** issues.
+- Pushed **1419** commits to github.
+- Opened **36** issues.
 - Submitted **207** pull requests.
 - Received **25** stars from github users.
 
