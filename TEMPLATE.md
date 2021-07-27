@@ -36,7 +36,20 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Tuesday, July 27th, 2021, 7:52:18 AM (Indian Standard Time)
+<!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
+1. ![issueOpened] Opened issue [#173](https://github.com/Welcome-Bot/welcome-bot/issues/173) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![issueOpened] Opened issue [#172](https://github.com/Welcome-Bot/welcome-bot/issues/172) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![issueOpened] Opened issue [#3860](https://github.com/ColorlibHQ/AdminLTE/issues/3860) in [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+4. ![issueOpened] Opened issue [#171](https://github.com/Welcome-Bot/welcome-bot/issues/171) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![prMerged] Merged PR [#170](https://github.com/Welcome-Bot/welcome-bot/pull/170) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prMerged] Merged PR [#169](https://github.com/Welcome-Bot/welcome-bot/pull/169) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![prMerged] Merged PR [#168](https://github.com/Welcome-Bot/welcome-bot/pull/168) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![prOpened] Opened PR [#168](https://github.com/Welcome-Bot/welcome-bot/pull/168) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![prMerged] Merged PR [#166](https://github.com/Welcome-Bot/welcome-bot/pull/166) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![prMerged] Merged PR [#167](https://github.com/Welcome-Bot/welcome-bot/pull/167) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+<!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
 [![Recent Activity](https://github-readme-stats.vercel.app/api/pin/?username=Readme-Workflows&repo=recent-activity)](https://github.com/Readme-Workflows/recent-activity)
