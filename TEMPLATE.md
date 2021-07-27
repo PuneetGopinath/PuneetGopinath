@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 27th, 2021, 11:45:53 AM (Indian Standard Time)
+Last Updated: Tuesday, July 27th, 2021, 5:49:42 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#174](https://github.com/Welcome-Bot/welcome-bot/pull/174) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prOpened] Opened PR [#174](https://github.com/Welcome-Bot/welcome-bot/pull/174) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prMerged] Merged PR [#1](https://github.com/PuneetGopinath/security-on-github/pull/1) in [PuneetGopinath/security-on-github](https://github.com/PuneetGopinath/security-on-github)
-4. ![repoCreated] Created new repository [PuneetGopinath/security-on-github](https://github.com/PuneetGopinath/security-on-github)
-5. ![issueOpened] Opened issue [#173](https://github.com/Welcome-Bot/welcome-bot/issues/173) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![issueOpened] Opened issue [#172](https://github.com/Welcome-Bot/welcome-bot/issues/172) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![issueOpened] Opened issue [#3860](https://github.com/ColorlibHQ/AdminLTE/issues/3860) in [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
-8. ![issueOpened] Opened issue [#171](https://github.com/Welcome-Bot/welcome-bot/issues/171) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![prMerged] Merged PR [#170](https://github.com/Welcome-Bot/welcome-bot/pull/170) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![prMerged] Merged PR [#169](https://github.com/Welcome-Bot/welcome-bot/pull/169) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![issueClosed] Closed issue [#3860](https://github.com/ColorlibHQ/AdminLTE/issues/3860) in [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+2. ![prMerged] Merged PR [#174](https://github.com/Welcome-Bot/welcome-bot/pull/174) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![prOpened] Opened PR [#174](https://github.com/Welcome-Bot/welcome-bot/pull/174) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prMerged] Merged PR [#1](https://github.com/PuneetGopinath/security-on-github/pull/1) in [PuneetGopinath/security-on-github](https://github.com/PuneetGopinath/security-on-github)
+5. ![repoCreated] Created new repository [PuneetGopinath/security-on-github](https://github.com/PuneetGopinath/security-on-github)
+6. ![issueOpened] Opened issue [#173](https://github.com/Welcome-Bot/welcome-bot/issues/173) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![issueOpened] Opened issue [#172](https://github.com/Welcome-Bot/welcome-bot/issues/172) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![issueOpened] Opened issue [#3860](https://github.com/ColorlibHQ/AdminLTE/issues/3860) in [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE)
+9. ![issueOpened] Opened issue [#171](https://github.com/Welcome-Bot/welcome-bot/issues/171) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![prMerged] Merged PR [#170](https://github.com/Welcome-Bot/welcome-bot/pull/170) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
