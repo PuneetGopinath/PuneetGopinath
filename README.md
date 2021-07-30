@@ -36,7 +36,7 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 29th, 2021, 11:45:01 PM (Indian Standard Time)
+Last Updated: Friday, July 30th, 2021, 6:11:57 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![issueOpened] Opened issue [#6196](https://github.com/discordjs/discord.js/issues/6196) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
