@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 1st, 2021, 5:48:48 PM (Indian Standard Time)
+Last Updated: Sunday, August 1st, 2021, 11:44:39 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#1](https://github.com/PuneetGopinath/Anshrk/pull/1) in [PuneetGopinath/Anshrk](https://github.com/PuneetGopinath/Anshrk)
-2. ![prOpened] Opened PR [#1](https://github.com/PuneetGopinath/Anshrk/pull/1) in [PuneetGopinath/Anshrk](https://github.com/PuneetGopinath/Anshrk)
-3. ![prOpened] Opened PR [#1](https://github.com/Anshrk/Anshrk/pull/1) in [Anshrk/Anshrk](https://github.com/Anshrk/Anshrk)
-4. ![fork] Forked [PuneetGopinath/Anshrk](https://github.com/PuneetGopinath/Anshrk) from [Anshrk/Anshrk](https://github.com/Anshrk/Anshrk)
-5. ![prMerged] Merged PR [#179](https://github.com/Welcome-Bot/welcome-bot/pull/179) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prOpened] Opened PR [#179](https://github.com/Welcome-Bot/welcome-bot/pull/179) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![issueClosed] Closed issue [#7](https://github.com/PuneetGopinath/node-express-course/issues/7) in [PuneetGopinath/node-express-course](https://github.com/PuneetGopinath/node-express-course)
-8. ![issueClosed] Closed issue [#1](https://github.com/PuneetGopinath/node-express-course/issues/1) in [PuneetGopinath/node-express-course](https://github.com/PuneetGopinath/node-express-course)
-9. ![repoCreated] Created new repository [PuneetGopinath/node-express-course](https://github.com/PuneetGopinath/node-express-course)
-10. ![issueClosed] Closed issue [#14](https://github.com/chinnupavan/priya-bot/issues/14) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+1. ![prMerged] Merged PR [#6](https://github.com/Welcome-Bot/stats-api/pull/6) in [Welcome-Bot/stats-api](https://github.com/Welcome-Bot/stats-api)
+2. ![issueOpened] Opened issue [#181](https://github.com/Welcome-Bot/welcome-bot/issues/181) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![issueOpened] Opened issue [#180](https://github.com/Welcome-Bot/welcome-bot/issues/180) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prMerged] Merged PR [#1](https://github.com/PuneetGopinath/Anshrk/pull/1) in [PuneetGopinath/Anshrk](https://github.com/PuneetGopinath/Anshrk)
+5. ![prOpened] Opened PR [#1](https://github.com/PuneetGopinath/Anshrk/pull/1) in [PuneetGopinath/Anshrk](https://github.com/PuneetGopinath/Anshrk)
+6. ![prOpened] Opened PR [#1](https://github.com/Anshrk/Anshrk/pull/1) in [Anshrk/Anshrk](https://github.com/Anshrk/Anshrk)
+7. ![fork] Forked [PuneetGopinath/Anshrk](https://github.com/PuneetGopinath/Anshrk) from [Anshrk/Anshrk](https://github.com/Anshrk/Anshrk)
+8. ![prMerged] Merged PR [#179](https://github.com/Welcome-Bot/welcome-bot/pull/179) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![prOpened] Opened PR [#179](https://github.com/Welcome-Bot/welcome-bot/pull/179) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![issueClosed] Closed issue [#7](https://github.com/PuneetGopinath/node-express-course/issues/7) in [PuneetGopinath/node-express-course](https://github.com/PuneetGopinath/node-express-course)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -62,7 +62,7 @@ Last Updated: Sunday, August 1st, 2021, 5:48:48 PM (Indian Standard Time)
 - Contributed to **42** repositories.
 - Own **20** repositories and **3** gists.
 - Pushed **1202** commits to github.
-- Opened **38** issues.
+- Opened **40** issues.
 - Submitted **212** pull requests.
 - Received **26** stars from github users.
 
