@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 3rd, 2021, 11:45:24 AM (Indian Standard Time)
+Last Updated: Tuesday, August 3rd, 2021, 5:50:21 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#1](https://github.com/Welcome-Bot/discord-pages-button/pull/1) in [Welcome-Bot/discord-pages-button](https://github.com/Welcome-Bot/discord-pages-button)
-2. ![star] Starred [Welcome-Bot/discord-pagination-btn](https://github.com/Welcome-Bot/discord-pagination-btn)
-3. ![repoCreated] Created new repository [Welcome-Bot/discord-pagination-btn](https://github.com/Welcome-Bot/discord-pagination-btn)
-4. ![issueClosed] Closed issue [#172](https://github.com/Welcome-Bot/welcome-bot/issues/172) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![prMerged] Merged PR [#189](https://github.com/Welcome-Bot/welcome-bot/pull/189) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prOpened] Opened PR [#189](https://github.com/Welcome-Bot/welcome-bot/pull/189) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![issueClosed] Closed issue [#173](https://github.com/Welcome-Bot/welcome-bot/issues/173) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![issueOpened] Opened issue [#188](https://github.com/Welcome-Bot/welcome-bot/issues/188) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![issueClosed] Closed issue [#152](https://github.com/Welcome-Bot/welcome-bot/issues/152) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![issueClosed] Closed issue [#154](https://github.com/Welcome-Bot/welcome-bot/issues/154) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prMerged] Merged PR [#191](https://github.com/Welcome-Bot/welcome-bot/pull/191) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prMerged] Merged PR [#3](https://github.com/Welcome-Bot/discord-pagination/pull/3) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. ![prOpened] Opened PR [#3](https://github.com/Welcome-Bot/discord-pagination/pull/3) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. ![prOpened] Opened PR [#190](https://github.com/Welcome-Bot/welcome-bot/pull/190) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![prMerged] Merged PR [#2](https://github.com/Welcome-Bot/discord-pages-button/pull/2) in [Welcome-Bot/discord-pages-button](https://github.com/Welcome-Bot/discord-pages-button)
+6. ![prMerged] Merged PR [#1](https://github.com/Welcome-Bot/discord-pages-button/pull/1) in [Welcome-Bot/discord-pages-button](https://github.com/Welcome-Bot/discord-pages-button)
+7. ![prOpened] Opened PR [#1](https://github.com/Welcome-Bot/discord-pages-button/pull/1) in [Welcome-Bot/discord-pages-button](https://github.com/Welcome-Bot/discord-pages-button)
+8. ![star] Starred [Welcome-Bot/discord-pagination-btn](https://github.com/Welcome-Bot/discord-pagination-btn)
+9. ![repoCreated] Created new repository [Welcome-Bot/discord-pagination-btn](https://github.com/Welcome-Bot/discord-pagination-btn)
+10. ![issueClosed] Closed issue [#172](https://github.com/Welcome-Bot/welcome-bot/issues/172) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
