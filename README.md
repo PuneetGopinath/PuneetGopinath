@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 3rd, 2021, 6:16:19 AM (Indian Standard Time)
+Last Updated: Tuesday, August 3rd, 2021, 11:45:24 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueClosed] Closed issue [#172](https://github.com/Welcome-Bot/welcome-bot/issues/172) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prMerged] Merged PR [#189](https://github.com/Welcome-Bot/welcome-bot/pull/189) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prOpened] Opened PR [#189](https://github.com/Welcome-Bot/welcome-bot/pull/189) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![issueClosed] Closed issue [#173](https://github.com/Welcome-Bot/welcome-bot/issues/173) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![issueOpened] Opened issue [#188](https://github.com/Welcome-Bot/welcome-bot/issues/188) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![issueClosed] Closed issue [#152](https://github.com/Welcome-Bot/welcome-bot/issues/152) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![issueClosed] Closed issue [#154](https://github.com/Welcome-Bot/welcome-bot/issues/154) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![issueClosed] Closed issue [#173](https://github.com/Welcome-Bot/welcome-bot/issues/173) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![prOpened] Opened PR [#187](https://github.com/Welcome-Bot/welcome-bot/pull/187) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![issueClosed] Closed issue [#151](https://github.com/Welcome-Bot/welcome-bot/issues/151) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prOpened] Opened PR [#1](https://github.com/Welcome-Bot/discord-pages-button/pull/1) in [Welcome-Bot/discord-pages-button](https://github.com/Welcome-Bot/discord-pages-button)
+2. ![star] Starred [Welcome-Bot/discord-pagination-btn](https://github.com/Welcome-Bot/discord-pagination-btn)
+3. ![repoCreated] Created new repository [Welcome-Bot/discord-pagination-btn](https://github.com/Welcome-Bot/discord-pagination-btn)
+4. ![issueClosed] Closed issue [#172](https://github.com/Welcome-Bot/welcome-bot/issues/172) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![prMerged] Merged PR [#189](https://github.com/Welcome-Bot/welcome-bot/pull/189) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prOpened] Opened PR [#189](https://github.com/Welcome-Bot/welcome-bot/pull/189) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![issueClosed] Closed issue [#173](https://github.com/Welcome-Bot/welcome-bot/issues/173) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![issueOpened] Opened issue [#188](https://github.com/Welcome-Bot/welcome-bot/issues/188) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![issueClosed] Closed issue [#152](https://github.com/Welcome-Bot/welcome-bot/issues/152) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![issueClosed] Closed issue [#154](https://github.com/Welcome-Bot/welcome-bot/issues/154) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -59,11 +59,11 @@ Last Updated: Tuesday, August 3rd, 2021, 6:16:19 AM (Indian Standard Time)
 ### 🚀 Stats
 
 - Created my github account **0** years ago.
-- Contributed to **42** repositories.
+- Contributed to **43** repositories.
 - Own **20** repositories and **3** gists.
-- Pushed **1204** commits to github.
+- Pushed **1205** commits to github.
 - Opened **41** issues.
-- Submitted **215** pull requests.
+- Submitted **216** pull requests.
 - Received **26** stars from github users.
 
 <!-- Badges -->
