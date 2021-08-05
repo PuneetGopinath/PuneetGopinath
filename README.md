@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 4th, 2021, 11:45:42 PM (Indian Standard Time)
+Last Updated: Thursday, August 5th, 2021, 6:11:50 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] Opened issue [#163](https://github.com/SoftwareBrothers/better-docs/issues/163) in [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs)
-2. ![prMerged] Merged PR [#193](https://github.com/Welcome-Bot/welcome-bot/pull/193) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prClosed] Closed PR [#760](https://github.com/discordjs/guide/pull/760) in [discordjs/guide](https://github.com/discordjs/guide)
-4. ![prMerged] Merged PR [#192](https://github.com/Welcome-Bot/welcome-bot/pull/192) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![release] Released [v0.1.0 Release candidate](https://github.com/Welcome-Bot/discord-pagination/releases/tag/v0.1.0-rc7) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![issueOpened] Opened issue [#6293](https://github.com/discordjs/discord.js/issues/6293) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-7. ![prOpened] Opened PR [#760](https://github.com/discordjs/guide/pull/760) in [discordjs/guide](https://github.com/discordjs/guide)
-8. ![fork] Forked [PuneetGopinath/guide](https://github.com/PuneetGopinath/guide) from [discordjs/guide](https://github.com/discordjs/guide)
-9. ![release] Released [v0.1.0 Release candidate](https://github.com/Welcome-Bot/discord-pagination/releases/tag/v0.1.0-rc1) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-10. ![prMerged] Merged PR [#4](https://github.com/Welcome-Bot/discord-pagination/pull/4) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. ![prMerged] Merged PR [#5](https://github.com/Welcome-Bot/discord-pagination/pull/5) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+2. ![prMerged] Merged PR [#6](https://github.com/Welcome-Bot/discord-pagination/pull/6) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. ![issueOpened] Opened issue [#163](https://github.com/SoftwareBrothers/better-docs/issues/163) in [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs)
+4. ![prMerged] Merged PR [#193](https://github.com/Welcome-Bot/welcome-bot/pull/193) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![prClosed] Closed PR [#760](https://github.com/discordjs/guide/pull/760) in [discordjs/guide](https://github.com/discordjs/guide)
+6. ![prMerged] Merged PR [#192](https://github.com/Welcome-Bot/welcome-bot/pull/192) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![release] Released [v0.1.0 Release candidate](https://github.com/Welcome-Bot/discord-pagination/releases/tag/v0.1.0-rc7) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+8. ![issueOpened] Opened issue [#6293](https://github.com/discordjs/discord.js/issues/6293) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+9. ![prOpened] Opened PR [#760](https://github.com/discordjs/guide/pull/760) in [discordjs/guide](https://github.com/discordjs/guide)
+10. ![fork] Forked [PuneetGopinath/guide](https://github.com/PuneetGopinath/guide) from [discordjs/guide](https://github.com/discordjs/guide)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -61,7 +61,7 @@ Last Updated: Wednesday, August 4th, 2021, 11:45:42 PM (Indian Standard Time)
 - Created my github account **0** years ago.
 - Contributed to **45** repositories.
 - Own **20** repositories and **3** gists.
-- Pushed **1249** commits to github.
+- Pushed **1250** commits to github.
 - Opened **43** issues.
 - Submitted **219** pull requests.
 - Received **26** stars from github users.
