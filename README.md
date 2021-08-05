@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 5th, 2021, 11:45:31 AM (Indian Standard Time)
+Last Updated: Thursday, August 5th, 2021, 5:50:15 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [futurGH/ts-docmagen](https://github.com/futurGH/ts-docmagen)
-2. ![prMerged] Merged PR [#91](https://github.com/Readme-Workflows/recent-activity/pull/91) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![fork] Forked [PuneetGopinath/discord-pagination](https://github.com/PuneetGopinath/discord-pagination) from [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. ![issueClosed] Closed issue [#163](https://github.com/SoftwareBrothers/better-docs/issues/163) in [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs)
-5. ![prMerged] Merged PR [#5](https://github.com/Welcome-Bot/discord-pagination/pull/5) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![prMerged] Merged PR [#6](https://github.com/Welcome-Bot/discord-pagination/pull/6) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-7. ![issueOpened] Opened issue [#163](https://github.com/SoftwareBrothers/better-docs/issues/163) in [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs)
-8. ![prMerged] Merged PR [#193](https://github.com/Welcome-Bot/welcome-bot/pull/193) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![prClosed] Closed PR [#760](https://github.com/discordjs/guide/pull/760) in [discordjs/guide](https://github.com/discordjs/guide)
-10. ![prMerged] Merged PR [#192](https://github.com/Welcome-Bot/welcome-bot/pull/192) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prMerged] Merged PR [#196](https://github.com/Welcome-Bot/welcome-bot/pull/196) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prMerged] Merged PR [#195](https://github.com/Welcome-Bot/welcome-bot/pull/195) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![prMerged] Merged PR [#194](https://github.com/Welcome-Bot/welcome-bot/pull/194) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![star] Starred [futurGH/ts-docmagen](https://github.com/futurGH/ts-docmagen)
+5. ![prMerged] Merged PR [#91](https://github.com/Readme-Workflows/recent-activity/pull/91) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+6. ![fork] Forked [PuneetGopinath/discord-pagination](https://github.com/PuneetGopinath/discord-pagination) from [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+7. ![issueClosed] Closed issue [#163](https://github.com/SoftwareBrothers/better-docs/issues/163) in [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs)
+8. ![prMerged] Merged PR [#5](https://github.com/Welcome-Bot/discord-pagination/pull/5) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+9. ![prMerged] Merged PR [#6](https://github.com/Welcome-Bot/discord-pagination/pull/6) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+10. ![issueOpened] Opened issue [#163](https://github.com/SoftwareBrothers/better-docs/issues/163) in [SoftwareBrothers/better-docs](https://github.com/SoftwareBrothers/better-docs)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
