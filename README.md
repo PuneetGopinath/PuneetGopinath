@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 7th, 2021, 11:45:06 AM (Indian Standard Time)
+Last Updated: Saturday, August 7th, 2021, 5:49:17 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#10](https://github.com/Welcome-Bot/discord-pagination/pull/10) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. ![prMerged] Merged PR [#9](https://github.com/Welcome-Bot/discord-pagination/pull/9) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-3. ![prMerged] Merged PR [#200](https://github.com/Welcome-Bot/welcome-bot/pull/200) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prMerged] Merged PR [#201](https://github.com/Welcome-Bot/welcome-bot/pull/201) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![prMerged] Merged PR [#199](https://github.com/Welcome-Bot/welcome-bot/pull/199) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prMerged] Merged PR [#198](https://github.com/Welcome-Bot/welcome-bot/pull/198) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![release] Released [v0.1.2](https://github.com/Welcome-Bot/discord-pagination/releases/tag/v0.1.2) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-8. ![release] Released [v0.1.1](https://github.com/Welcome-Bot/discord-pagination/releases/tag/v0.1.1) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-9. ![release] Released [v0.1.1](https://github.com/Welcome-Bot/discord-pagination/releases/tag/v0.1.1) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-10. ![prMerged] Merged PR [#197](https://github.com/Welcome-Bot/welcome-bot/pull/197) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![issueOpened] Opened issue [#203](https://github.com/Welcome-Bot/welcome-bot/issues/203) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prOpened] Opened PR [#202](https://github.com/Welcome-Bot/welcome-bot/pull/202) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![issueClosed] Closed issue [#181](https://github.com/Welcome-Bot/welcome-bot/issues/181) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prMerged] Merged PR [#187](https://github.com/Welcome-Bot/welcome-bot/pull/187) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![prMerged] Merged PR [#10](https://github.com/Welcome-Bot/discord-pagination/pull/10) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+6. ![prMerged] Merged PR [#9](https://github.com/Welcome-Bot/discord-pagination/pull/9) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+7. ![prMerged] Merged PR [#200](https://github.com/Welcome-Bot/welcome-bot/pull/200) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![prMerged] Merged PR [#201](https://github.com/Welcome-Bot/welcome-bot/pull/201) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![prMerged] Merged PR [#199](https://github.com/Welcome-Bot/welcome-bot/pull/199) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![prMerged] Merged PR [#198](https://github.com/Welcome-Bot/welcome-bot/pull/198) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -62,8 +62,8 @@ Last Updated: Saturday, August 7th, 2021, 11:45:06 AM (Indian Standard Time)
 - Contributed to **45** repositories.
 - Own **20** repositories and **3** gists.
 - Pushed **1265** commits to github.
-- Opened **43** issues.
-- Submitted **220** pull requests.
+- Opened **44** issues.
+- Submitted **221** pull requests.
 - Received **26** stars from github users.
 
 <!-- Badges -->
