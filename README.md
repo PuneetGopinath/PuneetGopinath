@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 8th, 2021, 11:45:02 AM (Indian Standard Time)
+Last Updated: Sunday, August 8th, 2021, 5:48:52 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#207](https://github.com/Welcome-Bot/welcome-bot/pull/207) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![issueClosed] Closed issue [#84](https://github.com/Welcome-Bot/welcome-bot/issues/84) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![issueClosed] Closed issue [#161](https://github.com/Welcome-Bot/welcome-bot/issues/161) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prMerged] Merged PR [#204](https://github.com/Welcome-Bot/welcome-bot/pull/204) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![prMerged] Merged PR [#202](https://github.com/Welcome-Bot/welcome-bot/pull/202) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![issueOpened] Opened issue [#206](https://github.com/Welcome-Bot/welcome-bot/issues/206) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![issueOpened] Opened issue [#205](https://github.com/Welcome-Bot/welcome-bot/issues/205) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![prOpened] Opened PR [#204](https://github.com/Welcome-Bot/welcome-bot/pull/204) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![issueOpened] Opened issue [#203](https://github.com/Welcome-Bot/welcome-bot/issues/203) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![prOpened] Opened PR [#202](https://github.com/Welcome-Bot/welcome-bot/pull/202) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![release] Released [v0.1.3](https://github.com/Welcome-Bot/discord-pagination/releases/tag/v0.1.3) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+2. ![release] Released [v0.1.3](https://github.com/Welcome-Bot/discord-pagination/releases/tag/v0.1.3) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. ![prMerged] Merged PR [#11](https://github.com/Welcome-Bot/discord-pagination/pull/11) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. ![prOpened] Opened PR [#11](https://github.com/Welcome-Bot/discord-pagination/pull/11) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. ![prOpened] Opened PR [#207](https://github.com/Welcome-Bot/welcome-bot/pull/207) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![issueClosed] Closed issue [#84](https://github.com/Welcome-Bot/welcome-bot/issues/84) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![issueClosed] Closed issue [#161](https://github.com/Welcome-Bot/welcome-bot/issues/161) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![prMerged] Merged PR [#204](https://github.com/Welcome-Bot/welcome-bot/pull/204) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![prMerged] Merged PR [#202](https://github.com/Welcome-Bot/welcome-bot/pull/202) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![issueOpened] Opened issue [#206](https://github.com/Welcome-Bot/welcome-bot/issues/206) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -63,7 +63,7 @@ Last Updated: Sunday, August 8th, 2021, 11:45:02 AM (Indian Standard Time)
 - Own **20** repositories and **3** gists.
 - Pushed **1265** commits to github.
 - Opened **46** issues.
-- Submitted **223** pull requests.
+- Submitted **224** pull requests.
 - Received **26** stars from github users.
 
 <!-- Badges -->
