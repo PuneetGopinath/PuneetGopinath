@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 11th, 2021, 11:45:53 AM (Indian Standard Time)
+Last Updated: Wednesday, August 11th, 2021, 5:49:45 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#6386](https://github.com/discordjs/discord.js/pull/6386) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-2. ![fork] Forked [PuneetGopinath/discord.js](https://github.com/PuneetGopinath/discord.js) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
-3. ![prOpened] Opened PR [#16](https://github.com/Welcome-Bot/discord-pagination/pull/16) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. ![prOpened] Opened PR [#218](https://github.com/Welcome-Bot/welcome-bot/pull/218) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![prMerged] Merged PR [#215](https://github.com/Welcome-Bot/welcome-bot/pull/215) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prMerged] Merged PR [#216](https://github.com/Welcome-Bot/welcome-bot/pull/216) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![prMerged] Merged PR [#217](https://github.com/Welcome-Bot/welcome-bot/pull/217) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![prMerged] Merged PR [#214](https://github.com/Welcome-Bot/welcome-bot/pull/214) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![issueClosed] Closed issue [#205](https://github.com/Welcome-Bot/welcome-bot/issues/205) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![prMerged] Merged PR [#6](https://github.com/PuneetGopinath/PuneetGopinath/pull/6) in [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
+1. ![prClosed] Closed PR [#19](https://github.com/Welcome-Bot/discord-pagination/pull/19) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+2. ![repoCreated] Created new repository [Welcome-Bot/.github](https://github.com/Welcome-Bot/.github)
+3. ![prOpened] Opened PR [#19](https://github.com/Welcome-Bot/discord-pagination/pull/19) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. ![prOpened] Opened PR [#18](https://github.com/Welcome-Bot/discord-pagination/pull/18) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. ![star] Starred [DFlux-Team/.github](https://github.com/DFlux-Team/.github)
+6. ![repoCreated] Created new repository [DFlux-Team/.github](https://github.com/DFlux-Team/.github)
+7. ![prOpened] Opened PR [#17](https://github.com/Welcome-Bot/discord-pagination/pull/17) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+8. ![prOpened] Opened PR [#6386](https://github.com/discordjs/discord.js/pull/6386) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+9. ![fork] Forked [PuneetGopinath/discord.js](https://github.com/PuneetGopinath/discord.js) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
+10. ![prOpened] Opened PR [#16](https://github.com/Welcome-Bot/discord-pagination/pull/16) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
