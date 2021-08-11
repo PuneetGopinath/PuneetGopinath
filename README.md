@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 11th, 2021, 6:14:34 AM (Indian Standard Time)
+Last Updated: Wednesday, August 11th, 2021, 11:45:53 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#215](https://github.com/Welcome-Bot/welcome-bot/pull/215) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prMerged] Merged PR [#216](https://github.com/Welcome-Bot/welcome-bot/pull/216) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prMerged] Merged PR [#217](https://github.com/Welcome-Bot/welcome-bot/pull/217) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prMerged] Merged PR [#214](https://github.com/Welcome-Bot/welcome-bot/pull/214) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![issueClosed] Closed issue [#205](https://github.com/Welcome-Bot/welcome-bot/issues/205) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prMerged] Merged PR [#6](https://github.com/PuneetGopinath/PuneetGopinath/pull/6) in [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
-7. ![release] Released [v0.1.4](https://github.com/Welcome-Bot/discord-pagination/releases/tag/v0.1.4) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-8. ![release] Released [v0.1.4](https://github.com/Welcome-Bot/discord-pagination/releases/tag/v0.1.4) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-9. ![prMerged] Merged PR [#13](https://github.com/Welcome-Bot/discord-pagination/pull/13) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-10. ![prMerged] Merged PR [#14](https://github.com/Welcome-Bot/discord-pagination/pull/14) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. ![prOpened] Opened PR [#6386](https://github.com/discordjs/discord.js/pull/6386) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+2. ![fork] Forked [PuneetGopinath/discord.js](https://github.com/PuneetGopinath/discord.js) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
+3. ![prOpened] Opened PR [#16](https://github.com/Welcome-Bot/discord-pagination/pull/16) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. ![prOpened] Opened PR [#218](https://github.com/Welcome-Bot/welcome-bot/pull/218) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![prMerged] Merged PR [#215](https://github.com/Welcome-Bot/welcome-bot/pull/215) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prMerged] Merged PR [#216](https://github.com/Welcome-Bot/welcome-bot/pull/216) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![prMerged] Merged PR [#217](https://github.com/Welcome-Bot/welcome-bot/pull/217) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![prMerged] Merged PR [#214](https://github.com/Welcome-Bot/welcome-bot/pull/214) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![issueClosed] Closed issue [#205](https://github.com/Welcome-Bot/welcome-bot/issues/205) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![prMerged] Merged PR [#6](https://github.com/PuneetGopinath/PuneetGopinath/pull/6) in [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -61,9 +61,9 @@ Last Updated: Wednesday, August 11th, 2021, 6:14:34 AM (Indian Standard Time)
 - Created my github account **0** years ago.
 - Contributed to **45** repositories.
 - Own **21** repositories and **3** gists.
-- Pushed **1285** commits to github.
+- Pushed **1286** commits to github.
 - Opened **46** issues.
-- Submitted **226** pull requests.
+- Submitted **229** pull requests.
 - Received **26** stars from github users.
 
 <!-- Badges -->
