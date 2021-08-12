@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 12th, 2021, 6:11:03 AM (Indian Standard Time)
+Last Updated: Thursday, August 12th, 2021, 11:45:41 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prClosed] Closed PR [#19](https://github.com/Welcome-Bot/discord-pagination/pull/19) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. ![repoCreated] Created new repository [Welcome-Bot/.github](https://github.com/Welcome-Bot/.github)
-3. ![prOpened] Opened PR [#19](https://github.com/Welcome-Bot/discord-pagination/pull/19) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. ![prOpened] Opened PR [#18](https://github.com/Welcome-Bot/discord-pagination/pull/18) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-5. ![star] Starred [DFlux-Team/.github](https://github.com/DFlux-Team/.github)
-6. ![repoCreated] Created new repository [DFlux-Team/.github](https://github.com/DFlux-Team/.github)
-7. ![prOpened] Opened PR [#17](https://github.com/Welcome-Bot/discord-pagination/pull/17) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-8. ![prOpened] Opened PR [#6386](https://github.com/discordjs/discord.js/pull/6386) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-9. ![fork] Forked [PuneetGopinath/discord.js](https://github.com/PuneetGopinath/discord.js) from [discordjs/discord.js](https://github.com/discordjs/discord.js)
-10. ![prOpened] Opened PR [#16](https://github.com/Welcome-Bot/discord-pagination/pull/16) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. ![prMerged] Merged PR [#16](https://github.com/Welcome-Bot/discord-pagination/pull/16) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+2. ![prMerged] Merged PR [#18](https://github.com/Welcome-Bot/discord-pagination/pull/18) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. ![prMerged] Merged PR [#20](https://github.com/Welcome-Bot/discord-pagination/pull/20) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. ![prClosed] Closed PR [#19](https://github.com/Welcome-Bot/discord-pagination/pull/19) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. ![repoCreated] Created new repository [Welcome-Bot/.github](https://github.com/Welcome-Bot/.github)
+6. ![prOpened] Opened PR [#19](https://github.com/Welcome-Bot/discord-pagination/pull/19) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+7. ![prOpened] Opened PR [#18](https://github.com/Welcome-Bot/discord-pagination/pull/18) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+8. ![star] Starred [DFlux-Team/.github](https://github.com/DFlux-Team/.github)
+9. ![repoCreated] Created new repository [DFlux-Team/.github](https://github.com/DFlux-Team/.github)
+10. ![prOpened] Opened PR [#17](https://github.com/Welcome-Bot/discord-pagination/pull/17) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
