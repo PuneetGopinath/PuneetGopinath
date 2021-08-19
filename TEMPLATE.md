@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 19th, 2021, 6:05:42 AM (Indian Standard Time)
+Last Updated: Thursday, August 19th, 2021, 11:45:37 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#4](https://github.com/DFlux-Team/bot-dash/pull/4) in [DFlux-Team/bot-dash](https://github.com/DFlux-Team/bot-dash)
-2. ![prOpened] Opened PR [#2](https://github.com/DFlux-Team/bot-dash/pull/2) in [DFlux-Team/bot-dash](https://github.com/DFlux-Team/bot-dash)
-3. ![prMerged] Merged PR [#23](https://github.com/Welcome-Bot/discord-pagination/pull/23) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. ![prClosed] Closed PR [#210](https://github.com/discord-tickets/bot/pull/210) in [discord-tickets/bot](https://github.com/discord-tickets/bot)
-5. ![prOpened] Opened PR [#211](https://github.com/discord-tickets/bot/pull/211) in [discord-tickets/bot](https://github.com/discord-tickets/bot)
-6. ![prOpened] Opened PR [#210](https://github.com/discord-tickets/bot/pull/210) in [discord-tickets/bot](https://github.com/discord-tickets/bot)
-7. ![prMerged] Merged PR [#24](https://github.com/Welcome-Bot/discord-pagination/pull/24) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-8. ![prOpened] Opened PR [#203](https://github.com/discord-tickets/bot/pull/203) in [discord-tickets/bot](https://github.com/discord-tickets/bot)
-9. ![prMerged] Merged PR [#1](https://github.com/DFlux-Team/bot-dash/pull/1) in [DFlux-Team/bot-dash](https://github.com/DFlux-Team/bot-dash)
-10. ![star] Starred [DFlux-Team/bot-dash](https://github.com/DFlux-Team/bot-dash)
+1. ![prMerged] Merged PR [#25](https://github.com/Welcome-Bot/discord-pagination/pull/25) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+2. ![prOpened] Opened PR [#25](https://github.com/Welcome-Bot/discord-pagination/pull/25) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. ![prMerged] Merged PR [#17](https://github.com/Welcome-Bot/discord-pagination/pull/17) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. ![prOpened] Opened PR [#4](https://github.com/DFlux-Team/bot-dash/pull/4) in [DFlux-Team/bot-dash](https://github.com/DFlux-Team/bot-dash)
+5. ![prOpened] Opened PR [#2](https://github.com/DFlux-Team/bot-dash/pull/2) in [DFlux-Team/bot-dash](https://github.com/DFlux-Team/bot-dash)
+6. ![prMerged] Merged PR [#23](https://github.com/Welcome-Bot/discord-pagination/pull/23) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+7. ![prClosed] Closed PR [#210](https://github.com/discord-tickets/bot/pull/210) in [discord-tickets/bot](https://github.com/discord-tickets/bot)
+8. ![prOpened] Opened PR [#211](https://github.com/discord-tickets/bot/pull/211) in [discord-tickets/bot](https://github.com/discord-tickets/bot)
+9. ![prOpened] Opened PR [#210](https://github.com/discord-tickets/bot/pull/210) in [discord-tickets/bot](https://github.com/discord-tickets/bot)
+10. ![prMerged] Merged PR [#24](https://github.com/Welcome-Bot/discord-pagination/pull/24) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
