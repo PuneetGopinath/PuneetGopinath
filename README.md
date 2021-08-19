@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 19th, 2021, 5:49:59 PM (Indian Standard Time)
+Last Updated: Thursday, August 19th, 2021, 11:45:11 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#27](https://github.com/Welcome-Bot/discord-pagination/pull/27) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. ![prOpened] Opened PR [#226](https://github.com/Welcome-Bot/welcome-bot/pull/226) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prMerged] Merged PR [#225](https://github.com/Welcome-Bot/welcome-bot/pull/225) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prMerged] Merged PR [#224](https://github.com/Welcome-Bot/welcome-bot/pull/224) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![prOpened] Opened PR [#26](https://github.com/Welcome-Bot/discord-pagination/pull/26) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![prMerged] Merged PR [#25](https://github.com/Welcome-Bot/discord-pagination/pull/25) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-7. ![prOpened] Opened PR [#25](https://github.com/Welcome-Bot/discord-pagination/pull/25) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-8. ![prMerged] Merged PR [#17](https://github.com/Welcome-Bot/discord-pagination/pull/17) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-9. ![prOpened] Opened PR [#4](https://github.com/DFlux-Team/bot-dash/pull/4) in [DFlux-Team/bot-dash](https://github.com/DFlux-Team/bot-dash)
-10. ![prOpened] Opened PR [#2](https://github.com/DFlux-Team/bot-dash/pull/2) in [DFlux-Team/bot-dash](https://github.com/DFlux-Team/bot-dash)
+1. ![prOpened] Opened PR [#28](https://github.com/Welcome-Bot/discord-pagination/pull/28) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+2. ![prMerged] Merged PR [#227](https://github.com/Welcome-Bot/welcome-bot/pull/227) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![prMerged] Merged PR [#27](https://github.com/Welcome-Bot/discord-pagination/pull/27) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. ![prOpened] Opened PR [#27](https://github.com/Welcome-Bot/discord-pagination/pull/27) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. ![prOpened] Opened PR [#226](https://github.com/Welcome-Bot/welcome-bot/pull/226) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prMerged] Merged PR [#225](https://github.com/Welcome-Bot/welcome-bot/pull/225) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![prMerged] Merged PR [#224](https://github.com/Welcome-Bot/welcome-bot/pull/224) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![prOpened] Opened PR [#26](https://github.com/Welcome-Bot/discord-pagination/pull/26) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+9. ![prMerged] Merged PR [#25](https://github.com/Welcome-Bot/discord-pagination/pull/25) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+10. ![prOpened] Opened PR [#25](https://github.com/Welcome-Bot/discord-pagination/pull/25) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -61,10 +61,10 @@ Last Updated: Thursday, August 19th, 2021, 5:49:59 PM (Indian Standard Time)
 - Created my github account **0** years ago.
 - Contributed to **52** repositories.
 - Own **21** repositories and **3** gists.
-- Pushed **1639** commits to github.
+- Pushed **1646** commits to github.
 - Opened **46** issues.
-- Submitted **245** pull requests.
-- Received **26** stars from github users.
+- Submitted **246** pull requests.
+- Received **27** stars from github users.
 
 <!-- Badges -->
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
