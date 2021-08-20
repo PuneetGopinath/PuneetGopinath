@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 20th, 2021, 6:10:08 AM (Indian Standard Time)
+Last Updated: Friday, August 20th, 2021, 11:45:23 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#28](https://github.com/Welcome-Bot/discord-pagination/pull/28) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. ![prMerged] Merged PR [#227](https://github.com/Welcome-Bot/welcome-bot/pull/227) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prMerged] Merged PR [#27](https://github.com/Welcome-Bot/discord-pagination/pull/27) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. ![prOpened] Opened PR [#27](https://github.com/Welcome-Bot/discord-pagination/pull/27) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-5. ![prOpened] Opened PR [#226](https://github.com/Welcome-Bot/welcome-bot/pull/226) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prMerged] Merged PR [#225](https://github.com/Welcome-Bot/welcome-bot/pull/225) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![prMerged] Merged PR [#224](https://github.com/Welcome-Bot/welcome-bot/pull/224) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![prOpened] Opened PR [#26](https://github.com/Welcome-Bot/discord-pagination/pull/26) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-9. ![prMerged] Merged PR [#25](https://github.com/Welcome-Bot/discord-pagination/pull/25) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-10. ![prOpened] Opened PR [#25](https://github.com/Welcome-Bot/discord-pagination/pull/25) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. ![prOpened] Opened PR [#7365](https://github.com/termux/termux-packages/pull/7365) in [termux/termux-packages](https://github.com/termux/termux-packages)
+2. ![prMerged] Merged PR [#28](https://github.com/Welcome-Bot/discord-pagination/pull/28) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. ![prMerged] Merged PR [#30](https://github.com/Welcome-Bot/discord-pagination/pull/30) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. ![prMerged] Merged PR [#29](https://github.com/Welcome-Bot/discord-pagination/pull/29) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. ![prOpened] Opened PR [#28](https://github.com/Welcome-Bot/discord-pagination/pull/28) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+6. ![prMerged] Merged PR [#227](https://github.com/Welcome-Bot/welcome-bot/pull/227) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![prMerged] Merged PR [#27](https://github.com/Welcome-Bot/discord-pagination/pull/27) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+8. ![prOpened] Opened PR [#27](https://github.com/Welcome-Bot/discord-pagination/pull/27) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+9. ![prOpened] Opened PR [#226](https://github.com/Welcome-Bot/welcome-bot/pull/226) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![prMerged] Merged PR [#225](https://github.com/Welcome-Bot/welcome-bot/pull/225) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -61,9 +61,9 @@ Last Updated: Friday, August 20th, 2021, 6:10:08 AM (Indian Standard Time)
 - Created my github account **0** years ago.
 - Contributed to **52** repositories.
 - Own **21** repositories and **3** gists.
-- Pushed **1646** commits to github.
+- Pushed **1647** commits to github.
 - Opened **46** issues.
-- Submitted **246** pull requests.
+- Submitted **247** pull requests.
 - Received **27** stars from github users.
 
 <!-- Badges -->
