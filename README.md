@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 25th, 2021, 6:11:06 AM (Indian Standard Time)
+Last Updated: Wednesday, August 25th, 2021, 11:45:03 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#3](https://github.com/Andre601/anti-scam-database/pull/3) in [Andre601/anti-scam-database](https://github.com/Andre601/anti-scam-database)
-2. ![fork] Forked [PuneetGopinath/anti-scam-database](https://github.com/PuneetGopinath/anti-scam-database) from [Andre601/anti-scam-database](https://github.com/Andre601/anti-scam-database)
-3. ![prMerged] Merged PR [#36](https://github.com/Welcome-Bot/discord-pagination/pull/36) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. ![prMerged] Merged PR [#35](https://github.com/Welcome-Bot/discord-pagination/pull/35) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-5. ![prMerged] Merged PR [#34](https://github.com/Welcome-Bot/discord-pagination/pull/34) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![prMerged] Merged PR [#33](https://github.com/Welcome-Bot/discord-pagination/pull/33) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-7. ![prMerged] Merged PR [#232](https://github.com/Welcome-Bot/welcome-bot/pull/232) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![prMerged] Merged PR [#231](https://github.com/Welcome-Bot/welcome-bot/pull/231) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![star] Starred [cronrobot/cronrobot](https://github.com/cronrobot/cronrobot)
-10. ![prMerged] Merged PR [#32](https://github.com/Welcome-Bot/discord-pagination/pull/32) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. ![people] Became collaborator on [PuneetGopinath/anti-scam-database](https://github.com/PuneetGopinath/anti-scam-database)
+2. ![prMerged] Merged PR [#3](https://github.com/PuneetGopinath/anti-scam-database/pull/3) in [PuneetGopinath/anti-scam-database](https://github.com/PuneetGopinath/anti-scam-database)
+3. ![prMerged] Merged PR [#234](https://github.com/Welcome-Bot/welcome-bot/pull/234) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prMerged] Merged PR [#235](https://github.com/Welcome-Bot/welcome-bot/pull/235) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![prOpened] Opened PR [#3](https://github.com/PuneetGopinath/anti-scam-database/pull/3) in [PuneetGopinath/anti-scam-database](https://github.com/PuneetGopinath/anti-scam-database)
+6. ![prOpened] Opened PR [#6](https://github.com/Andre601/anti-scam-database/pull/6) in [Andre601/anti-scam-database](https://github.com/Andre601/anti-scam-database)
+7. ![prMerged] Merged PR [#2](https://github.com/PuneetGopinath/anti-scam-database/pull/2) in [PuneetGopinath/anti-scam-database](https://github.com/PuneetGopinath/anti-scam-database)
+8. ![prOpened] Opened PR [#2](https://github.com/PuneetGopinath/anti-scam-database/pull/2) in [PuneetGopinath/anti-scam-database](https://github.com/PuneetGopinath/anti-scam-database)
+9. ![prMerged] Merged PR [#1](https://github.com/PuneetGopinath/anti-scam-database/pull/1) in [PuneetGopinath/anti-scam-database](https://github.com/PuneetGopinath/anti-scam-database)
+10. ![prOpened] Opened PR [#1](https://github.com/PuneetGopinath/anti-scam-database/pull/1) in [PuneetGopinath/anti-scam-database](https://github.com/PuneetGopinath/anti-scam-database)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -63,7 +63,7 @@ Last Updated: Wednesday, August 25th, 2021, 6:11:06 AM (Indian Standard Time)
 - Own **21** repositories and **3** gists.
 - Pushed **1702** commits to github.
 - Opened **46** issues.
-- Submitted **249** pull requests.
+- Submitted **253** pull requests.
 - Received **27** stars from github users.
 
 <!-- Badges -->
