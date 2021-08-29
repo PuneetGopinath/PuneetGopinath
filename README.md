@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 29th, 2021, 5:48:28 PM (Indian Standard Time)
+Last Updated: Sunday, August 29th, 2021, 11:43:58 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#244](https://github.com/Welcome-Bot/welcome-bot/pull/244) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prOpened] Opened PR [#244](https://github.com/Welcome-Bot/welcome-bot/pull/244) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prMerged] Merged PR [#40](https://github.com/Welcome-Bot/discord-pagination/pull/40) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. ![prMerged] Merged PR [#39](https://github.com/Welcome-Bot/discord-pagination/pull/39) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-5. ![prMerged] Merged PR [#241](https://github.com/Welcome-Bot/welcome-bot/pull/241) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prMerged] Merged PR [#243](https://github.com/Welcome-Bot/welcome-bot/pull/243) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![prMerged] Merged PR [#38](https://github.com/Welcome-Bot/discord-pagination/pull/38) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-8. ![prMerged] Merged PR [#37](https://github.com/Welcome-Bot/discord-pagination/pull/37) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-9. ![prOpened] Opened PR [#240](https://github.com/Welcome-Bot/welcome-bot/pull/240) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![prMerged] Merged PR [#233](https://github.com/Welcome-Bot/welcome-bot/pull/233) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prOpened] Opened PR [#1](https://github.com/GNVageesh/discogen/pull/1) in [GNVageesh/discogen](https://github.com/GNVageesh/discogen)
+2. ![fork] Forked [PuneetGopinath/discogen](https://github.com/PuneetGopinath/discogen) from [GNVageesh/discogen](https://github.com/GNVageesh/discogen)
+3. ![fork] Forked [PuneetGopinath/Axiol](https://github.com/PuneetGopinath/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+4. ![prMerged] Merged PR [#244](https://github.com/Welcome-Bot/welcome-bot/pull/244) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![prOpened] Opened PR [#244](https://github.com/Welcome-Bot/welcome-bot/pull/244) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prMerged] Merged PR [#40](https://github.com/Welcome-Bot/discord-pagination/pull/40) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+7. ![prMerged] Merged PR [#39](https://github.com/Welcome-Bot/discord-pagination/pull/39) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+8. ![prMerged] Merged PR [#241](https://github.com/Welcome-Bot/welcome-bot/pull/241) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![prMerged] Merged PR [#243](https://github.com/Welcome-Bot/welcome-bot/pull/243) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![prMerged] Merged PR [#38](https://github.com/Welcome-Bot/discord-pagination/pull/38) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -59,11 +59,11 @@ Last Updated: Sunday, August 29th, 2021, 5:48:28 PM (Indian Standard Time)
 ### 🚀 Stats
 
 - Created my github account **0** years ago.
-- Contributed to **54** repositories.
+- Contributed to **55** repositories.
 - Own **21** repositories and **3** gists.
-- Pushed **1729** commits to github.
+- Pushed **1732** commits to github.
 - Opened **46** issues.
-- Submitted **255** pull requests.
+- Submitted **256** pull requests.
 - Received **27** stars from github users.
 
 <!-- Badges -->
