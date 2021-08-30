@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, August 30th, 2021, 6:10:45 AM (Indian Standard Time)
+Last Updated: Monday, August 30th, 2021, 11:45:05 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#1](https://github.com/GNVageesh/discogen/pull/1) in [GNVageesh/discogen](https://github.com/GNVageesh/discogen)
-2. ![fork] Forked [PuneetGopinath/discogen](https://github.com/PuneetGopinath/discogen) from [GNVageesh/discogen](https://github.com/GNVageesh/discogen)
-3. ![fork] Forked [PuneetGopinath/Axiol](https://github.com/PuneetGopinath/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
-4. ![prMerged] Merged PR [#244](https://github.com/Welcome-Bot/welcome-bot/pull/244) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![prOpened] Opened PR [#244](https://github.com/Welcome-Bot/welcome-bot/pull/244) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prMerged] Merged PR [#40](https://github.com/Welcome-Bot/discord-pagination/pull/40) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-7. ![prMerged] Merged PR [#39](https://github.com/Welcome-Bot/discord-pagination/pull/39) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-8. ![prMerged] Merged PR [#241](https://github.com/Welcome-Bot/welcome-bot/pull/241) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![prMerged] Merged PR [#243](https://github.com/Welcome-Bot/welcome-bot/pull/243) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![prMerged] Merged PR [#38](https://github.com/Welcome-Bot/discord-pagination/pull/38) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. ![issueClosed] Closed issue [#6565](https://github.com/discordjs/discord.js/issues/6565) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+2. ![issueOpened] Opened issue [#6565](https://github.com/discordjs/discord.js/issues/6565) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+3. ![prOpened] Opened PR [#245](https://github.com/Welcome-Bot/welcome-bot/pull/245) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prOpened] Opened PR [#1](https://github.com/GNVageesh/discogen/pull/1) in [GNVageesh/discogen](https://github.com/GNVageesh/discogen)
+5. ![fork] Forked [PuneetGopinath/discogen](https://github.com/PuneetGopinath/discogen) from [GNVageesh/discogen](https://github.com/GNVageesh/discogen)
+6. ![fork] Forked [PuneetGopinath/Axiol](https://github.com/PuneetGopinath/Axiol) from [GitBolt/Axiol](https://github.com/GitBolt/Axiol)
+7. ![prMerged] Merged PR [#244](https://github.com/Welcome-Bot/welcome-bot/pull/244) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![prOpened] Opened PR [#244](https://github.com/Welcome-Bot/welcome-bot/pull/244) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![prMerged] Merged PR [#40](https://github.com/Welcome-Bot/discord-pagination/pull/40) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+10. ![prMerged] Merged PR [#39](https://github.com/Welcome-Bot/discord-pagination/pull/39) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
