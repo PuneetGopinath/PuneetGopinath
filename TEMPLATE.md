@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 1st, 2021, 6:17:08 AM (Indian Standard Time)
+Last Updated: Wednesday, September 1st, 2021, 11:45:20 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#250](https://github.com/Welcome-Bot/welcome-bot/pull/250) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prMerged] Merged PR [#249](https://github.com/Welcome-Bot/welcome-bot/pull/249) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prOpened] Opened PR [#4](https://github.com/hisRoyalty/clever-chat-v7/pull/4) in [hisRoyalty/clever-chat-v7](https://github.com/hisRoyalty/clever-chat-v7)
-4. ![fork] Forked [PuneetGopinath/clever-chat-v7](https://github.com/PuneetGopinath/clever-chat-v7) from [hisRoyalty/clever-chat-v7](https://github.com/hisRoyalty/clever-chat-v7)
-5. ![prMerged] Merged PR [#44](https://github.com/Welcome-Bot/discord-pagination/pull/44) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![prMerged] Merged PR [#42](https://github.com/Welcome-Bot/discord-pagination/pull/42) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-7. ![prMerged] Merged PR [#43](https://github.com/Welcome-Bot/discord-pagination/pull/43) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-8. ![prMerged] Merged PR [#248](https://github.com/Welcome-Bot/welcome-bot/pull/248) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![prOpened] Opened PR [#248](https://github.com/Welcome-Bot/welcome-bot/pull/248) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![prMerged] Merged PR [#45](https://github.com/Welcome-Bot/discord-pagination/pull/45) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. ![release] Released [v0.4.0](https://github.com/PuneetGopinath/colors-logger/releases/tag/v0.4.0) in [PuneetGopinath/colors-logger](https://github.com/PuneetGopinath/colors-logger)
+2. ![prMerged] Merged PR [#46](https://github.com/Welcome-Bot/discord-pagination/pull/46) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. ![prMerged] Merged PR [#250](https://github.com/Welcome-Bot/welcome-bot/pull/250) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prMerged] Merged PR [#249](https://github.com/Welcome-Bot/welcome-bot/pull/249) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![prOpened] Opened PR [#4](https://github.com/hisRoyalty/clever-chat-v7/pull/4) in [hisRoyalty/clever-chat-v7](https://github.com/hisRoyalty/clever-chat-v7)
+6. ![fork] Forked [PuneetGopinath/clever-chat-v7](https://github.com/PuneetGopinath/clever-chat-v7) from [hisRoyalty/clever-chat-v7](https://github.com/hisRoyalty/clever-chat-v7)
+7. ![prMerged] Merged PR [#44](https://github.com/Welcome-Bot/discord-pagination/pull/44) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+8. ![prMerged] Merged PR [#42](https://github.com/Welcome-Bot/discord-pagination/pull/42) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+9. ![prMerged] Merged PR [#43](https://github.com/Welcome-Bot/discord-pagination/pull/43) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+10. ![prMerged] Merged PR [#248](https://github.com/Welcome-Bot/welcome-bot/pull/248) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
