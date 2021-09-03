@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 3rd, 2021, 5:50:03 PM (Indian Standard Time)
+Last Updated: Friday, September 3rd, 2021, 11:44:21 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#254](https://github.com/Welcome-Bot/welcome-bot/pull/254) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prMerged] Merged PR [#47](https://github.com/Welcome-Bot/discord-pagination/pull/47) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-3. ![people] Became collaborator on [PuneetGopinath/tickets-bot](https://github.com/PuneetGopinath/tickets-bot)
-4. ![prMerged] Merged PR [#253](https://github.com/Welcome-Bot/welcome-bot/pull/253) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![prMerged] Merged PR [#252](https://github.com/Welcome-Bot/welcome-bot/pull/252) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prClosed] Closed PR [#4](https://github.com/hisRoyalty/clever-chat-v7/pull/4) in [hisRoyalty/clever-chat-v7](https://github.com/hisRoyalty/clever-chat-v7)
-7. ![release] Released [v0.4.0](https://github.com/PuneetGopinath/colors-logger/releases/tag/v0.4.0) in [PuneetGopinath/colors-logger](https://github.com/PuneetGopinath/colors-logger)
-8. ![prMerged] Merged PR [#46](https://github.com/Welcome-Bot/discord-pagination/pull/46) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-9. ![prMerged] Merged PR [#250](https://github.com/Welcome-Bot/welcome-bot/pull/250) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![prMerged] Merged PR [#249](https://github.com/Welcome-Bot/welcome-bot/pull/249) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prMerged] Merged PR [#255](https://github.com/Welcome-Bot/welcome-bot/pull/255) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prOpened] Opened PR [#255](https://github.com/Welcome-Bot/welcome-bot/pull/255) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![prMerged] Merged PR [#254](https://github.com/Welcome-Bot/welcome-bot/pull/254) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prMerged] Merged PR [#47](https://github.com/Welcome-Bot/discord-pagination/pull/47) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. ![people] Became collaborator on [PuneetGopinath/tickets-bot](https://github.com/PuneetGopinath/tickets-bot)
+6. ![prMerged] Merged PR [#253](https://github.com/Welcome-Bot/welcome-bot/pull/253) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![prMerged] Merged PR [#252](https://github.com/Welcome-Bot/welcome-bot/pull/252) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![prClosed] Closed PR [#4](https://github.com/hisRoyalty/clever-chat-v7/pull/4) in [hisRoyalty/clever-chat-v7](https://github.com/hisRoyalty/clever-chat-v7)
+9. ![release] Released [v0.4.0](https://github.com/PuneetGopinath/colors-logger/releases/tag/v0.4.0) in [PuneetGopinath/colors-logger](https://github.com/PuneetGopinath/colors-logger)
+10. ![prMerged] Merged PR [#46](https://github.com/Welcome-Bot/discord-pagination/pull/46) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
