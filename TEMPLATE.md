@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 6th, 2021, 5:50:01 PM (Indian Standard Time)
+Last Updated: Monday, September 6th, 2021, 11:44:21 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] Opened issue [#48](https://github.com/Welcome-Bot/discord-pagination/issues/48) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. ![prMerged] Merged PR [#257](https://github.com/Welcome-Bot/welcome-bot/pull/257) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prOpened] Opened PR [#257](https://github.com/Welcome-Bot/welcome-bot/pull/257) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prMerged] Merged PR [#256](https://github.com/Welcome-Bot/welcome-bot/pull/256) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![issueOpened] Opened issue [#6595](https://github.com/discordjs/discord.js/issues/6595) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-6. ![prOpened] Opened PR [#256](https://github.com/Welcome-Bot/welcome-bot/pull/256) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![prMerged] Merged PR [#240](https://github.com/Welcome-Bot/welcome-bot/pull/240) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![prMerged] Merged PR [#255](https://github.com/Welcome-Bot/welcome-bot/pull/255) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![prOpened] Opened PR [#255](https://github.com/Welcome-Bot/welcome-bot/pull/255) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![prMerged] Merged PR [#254](https://github.com/Welcome-Bot/welcome-bot/pull/254) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![repoCreated] Created new repository [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+2. ![prClosed] Closed PR [#251](https://github.com/Welcome-Bot/welcome-bot/pull/251) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![prMerged] Merged PR [#260](https://github.com/Welcome-Bot/welcome-bot/pull/260) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prMerged] Merged PR [#259](https://github.com/Welcome-Bot/welcome-bot/pull/259) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![issueOpened] Opened issue [#48](https://github.com/Welcome-Bot/discord-pagination/issues/48) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+6. ![prMerged] Merged PR [#257](https://github.com/Welcome-Bot/welcome-bot/pull/257) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![prOpened] Opened PR [#257](https://github.com/Welcome-Bot/welcome-bot/pull/257) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![prMerged] Merged PR [#256](https://github.com/Welcome-Bot/welcome-bot/pull/256) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![issueOpened] Opened issue [#6595](https://github.com/discordjs/discord.js/issues/6595) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+10. ![prOpened] Opened PR [#256](https://github.com/Welcome-Bot/welcome-bot/pull/256) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
