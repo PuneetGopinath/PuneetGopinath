@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 8th, 2021, 11:46:28 PM (Indian Standard Time)
+Last Updated: Thursday, September 9th, 2021, 6:14:08 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#264](https://github.com/Welcome-Bot/welcome-bot/pull/264) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prMerged] Merged PR [#51](https://github.com/Welcome-Bot/discord-pagination/pull/51) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-3. ![prMerged] Merged PR [#263](https://github.com/Welcome-Bot/welcome-bot/pull/263) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prMerged] Merged PR [#262](https://github.com/Welcome-Bot/welcome-bot/pull/262) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![prMerged] Merged PR [#261](https://github.com/Welcome-Bot/welcome-bot/pull/261) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prMerged] Merged PR [#50](https://github.com/Welcome-Bot/discord-pagination/pull/50) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-7. ![repoCreated] Created new repository [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
-8. ![prClosed] Closed PR [#251](https://github.com/Welcome-Bot/welcome-bot/pull/251) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![prMerged] Merged PR [#260](https://github.com/Welcome-Bot/welcome-bot/pull/260) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![prMerged] Merged PR [#259](https://github.com/Welcome-Bot/welcome-bot/pull/259) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prMerged] Merged PR [#20](https://github.com/PuneetGopinath/switch-theme-js/pull/20) in [PuneetGopinath/switch-theme-js](https://github.com/PuneetGopinath/switch-theme-js)
+2. ![prMerged] Merged PR [#52](https://github.com/Welcome-Bot/discord-pagination/pull/52) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. ![prMerged] Merged PR [#264](https://github.com/Welcome-Bot/welcome-bot/pull/264) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prMerged] Merged PR [#51](https://github.com/Welcome-Bot/discord-pagination/pull/51) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. ![prMerged] Merged PR [#263](https://github.com/Welcome-Bot/welcome-bot/pull/263) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prMerged] Merged PR [#262](https://github.com/Welcome-Bot/welcome-bot/pull/262) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![prMerged] Merged PR [#261](https://github.com/Welcome-Bot/welcome-bot/pull/261) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![prMerged] Merged PR [#50](https://github.com/Welcome-Bot/discord-pagination/pull/50) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+9. ![repoCreated] Created new repository [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+10. ![prClosed] Closed PR [#251](https://github.com/Welcome-Bot/welcome-bot/pull/251) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
