@@ -36,11 +36,11 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 18th, 2021, 11:44:19 AM (Indian Standard Time)
+Last Updated: Saturday, September 18th, 2021, 5:48:57 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#270](https://github.com/Welcome-Bot/welcome-bot/pull/270) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prMerged] Merged PR [#279](https://github.com/Welcome-Bot/welcome-bot/pull/279) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prMerged] Merged PR [#281](https://github.com/Welcome-Bot/welcome-bot/pull/281) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prOpened] Opened PR [#281](https://github.com/Welcome-Bot/welcome-bot/pull/281) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 3. ![prMerged] Merged PR [#280](https://github.com/Welcome-Bot/welcome-bot/pull/280) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 4. ![repoCreated] Created new repository [DisList-site/DisList](https://github.com/DisList-site/DisList)
 5. ![prMerged] Merged PR [#64](https://github.com/Welcome-Bot/discord-pagination/pull/64) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
