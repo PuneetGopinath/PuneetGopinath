@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 25th, 2021, 5:48:49 PM (Indian Standard Time)
+Last Updated: Saturday, September 25th, 2021, 11:43:53 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#71](https://github.com/Welcome-Bot/discord-pagination/pull/71) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-2. ![prMerged] Merged PR [#297](https://github.com/Welcome-Bot/welcome-bot/pull/297) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prMerged] Merged PR [#3](https://github.com/DisList-site/DisList/pull/3) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-4. ![prMerged] Merged PR [#4](https://github.com/DisList-site/DisList/pull/4) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-5. ![prMerged] Merged PR [#296](https://github.com/Welcome-Bot/welcome-bot/pull/296) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![star] Starred [DisList-site/DisList](https://github.com/DisList-site/DisList)
-7. ![prMerged] Merged PR [#295](https://github.com/Welcome-Bot/welcome-bot/pull/295) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![prOpened] Opened PR [#294](https://github.com/Welcome-Bot/welcome-bot/pull/294) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![prMerged] Merged PR [#293](https://github.com/Welcome-Bot/welcome-bot/pull/293) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-10. ![prMerged] Merged PR [#292](https://github.com/Welcome-Bot/welcome-bot/pull/292) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prMerged] Merged PR [#9](https://github.com/DisList-site/DisList/pull/9) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+2. ![issueOpened] Opened issue [#10](https://github.com/DisList-site/DisList/issues/10) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+3. ![prMerged] Merged PR [#72](https://github.com/Welcome-Bot/discord-pagination/pull/72) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+4. ![prOpened] Opened PR [#72](https://github.com/Welcome-Bot/discord-pagination/pull/72) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. ![prMerged] Merged PR [#8](https://github.com/DisList-site/DisList/pull/8) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+6. ![prOpened] Opened PR [#8](https://github.com/DisList-site/DisList/pull/8) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+7. ![prClosed] Closed PR [#7](https://github.com/DisList-site/DisList/pull/7) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+8. ![prMerged] Merged PR [#5](https://github.com/DisList-site/DisList/pull/5) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+9. ![prMerged] Merged PR [#71](https://github.com/Welcome-Bot/discord-pagination/pull/71) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+10. ![prMerged] Merged PR [#297](https://github.com/Welcome-Bot/welcome-bot/pull/297) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
