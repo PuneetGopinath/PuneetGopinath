@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 27th, 2021, 5:50:55 PM (Indian Standard Time)
+Last Updated: Monday, September 27th, 2021, 11:44:34 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#300](https://github.com/Welcome-Bot/welcome-bot/pull/300) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prMerged] Merged PR [#294](https://github.com/Welcome-Bot/welcome-bot/pull/294) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prMerged] Merged PR [#298](https://github.com/Welcome-Bot/welcome-bot/pull/298) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prMerged] Merged PR [#299](https://github.com/Welcome-Bot/welcome-bot/pull/299) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![prOpened] Opened PR [#299](https://github.com/Welcome-Bot/welcome-bot/pull/299) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prOpened] Opened PR [#298](https://github.com/Welcome-Bot/welcome-bot/pull/298) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![issueOpened] Opened issue [#20](https://github.com/DisList-site/DisList/issues/20) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-8. ![issueOpened] Opened issue [#19](https://github.com/DisList-site/DisList/issues/19) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-9. ![issueOpened] Opened issue [#18](https://github.com/DisList-site/DisList/issues/18) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-10. ![issueOpened] Opened issue [#17](https://github.com/DisList-site/DisList/issues/17) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+1. ![prMerged] Merged PR [#15](https://github.com/UpList-site/UpList/pull/15) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
+2. ![prMerged] Merged PR [#23](https://github.com/UpList-site/UpList/pull/23) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
+3. ![prClosed] Closed PR [#21](https://github.com/UpList-site/UpList/pull/21) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
+4. ![prClosed] Closed PR [#22](https://github.com/UpList-site/UpList/pull/22) in [UpList-site/UpList](https://github.com/UpList-site/UpList)
+5. ![prMerged] Merged PR [#300](https://github.com/Welcome-Bot/welcome-bot/pull/300) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prMerged] Merged PR [#294](https://github.com/Welcome-Bot/welcome-bot/pull/294) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![prMerged] Merged PR [#298](https://github.com/Welcome-Bot/welcome-bot/pull/298) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![prMerged] Merged PR [#299](https://github.com/Welcome-Bot/welcome-bot/pull/299) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![prOpened] Opened PR [#299](https://github.com/Welcome-Bot/welcome-bot/pull/299) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![prOpened] Opened PR [#298](https://github.com/Welcome-Bot/welcome-bot/pull/298) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
