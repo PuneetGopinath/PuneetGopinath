@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 27th, 2021, 11:45:36 AM (Indian Standard Time)
+Last Updated: Monday, September 27th, 2021, 5:50:55 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#299](https://github.com/Welcome-Bot/welcome-bot/pull/299) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prOpened] Opened PR [#298](https://github.com/Welcome-Bot/welcome-bot/pull/298) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![issueOpened] Opened issue [#20](https://github.com/DisList-site/DisList/issues/20) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-4. ![issueOpened] Opened issue [#19](https://github.com/DisList-site/DisList/issues/19) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-5. ![issueOpened] Opened issue [#18](https://github.com/DisList-site/DisList/issues/18) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-6. ![issueOpened] Opened issue [#17](https://github.com/DisList-site/DisList/issues/17) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-7. ![prMerged] Merged PR [#16](https://github.com/DisList-site/DisList/pull/16) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-8. ![prOpened] Opened PR [#15](https://github.com/DisList-site/DisList/pull/15) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-9. ![issueOpened] Opened issue [#14](https://github.com/DisList-site/DisList/issues/14) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-10. ![issueOpened] Opened issue [#13](https://github.com/DisList-site/DisList/issues/13) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+1. ![prMerged] Merged PR [#300](https://github.com/Welcome-Bot/welcome-bot/pull/300) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prMerged] Merged PR [#294](https://github.com/Welcome-Bot/welcome-bot/pull/294) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![prMerged] Merged PR [#298](https://github.com/Welcome-Bot/welcome-bot/pull/298) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![prMerged] Merged PR [#299](https://github.com/Welcome-Bot/welcome-bot/pull/299) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![prOpened] Opened PR [#299](https://github.com/Welcome-Bot/welcome-bot/pull/299) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prOpened] Opened PR [#298](https://github.com/Welcome-Bot/welcome-bot/pull/298) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![issueOpened] Opened issue [#20](https://github.com/DisList-site/DisList/issues/20) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+8. ![issueOpened] Opened issue [#19](https://github.com/DisList-site/DisList/issues/19) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+9. ![issueOpened] Opened issue [#18](https://github.com/DisList-site/DisList/issues/18) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+10. ![issueOpened] Opened issue [#17](https://github.com/DisList-site/DisList/issues/17) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -61,7 +61,7 @@ Last Updated: Monday, September 27th, 2021, 11:45:36 AM (Indian Standard Time)
 - Created my github account **0** years ago.
 - Contributed to **62** repositories.
 - Own **21** repositories and **3** gists.
-- Pushed **2013** commits to github.
+- Pushed **2018** commits to github.
 - Opened **57** issues.
 - Submitted **282** pull requests.
 - Received **27** stars from github users.
