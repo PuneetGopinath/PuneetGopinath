@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 27th, 2021, 6:13:15 AM (Indian Standard Time)
+Last Updated: Monday, September 27th, 2021, 11:45:36 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![issueOpened] Opened issue [#20](https://github.com/DisList-site/DisList/issues/20) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-2. ![issueOpened] Opened issue [#19](https://github.com/DisList-site/DisList/issues/19) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-3. ![issueOpened] Opened issue [#18](https://github.com/DisList-site/DisList/issues/18) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-4. ![issueOpened] Opened issue [#17](https://github.com/DisList-site/DisList/issues/17) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-5. ![prMerged] Merged PR [#16](https://github.com/DisList-site/DisList/pull/16) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-6. ![prOpened] Opened PR [#15](https://github.com/DisList-site/DisList/pull/15) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-7. ![issueOpened] Opened issue [#14](https://github.com/DisList-site/DisList/issues/14) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-8. ![issueOpened] Opened issue [#13](https://github.com/DisList-site/DisList/issues/13) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
-9. ![fork] Forked [PuneetGopinath/DisList](https://github.com/PuneetGopinath/DisList) from [DisList-site/DisList](https://github.com/DisList-site/DisList)
-10. ![prClosed] Closed PR [#12](https://github.com/DisList-site/DisList/pull/12) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+1. ![prOpened] Opened PR [#299](https://github.com/Welcome-Bot/welcome-bot/pull/299) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prOpened] Opened PR [#298](https://github.com/Welcome-Bot/welcome-bot/pull/298) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![issueOpened] Opened issue [#20](https://github.com/DisList-site/DisList/issues/20) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+4. ![issueOpened] Opened issue [#19](https://github.com/DisList-site/DisList/issues/19) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+5. ![issueOpened] Opened issue [#18](https://github.com/DisList-site/DisList/issues/18) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+6. ![issueOpened] Opened issue [#17](https://github.com/DisList-site/DisList/issues/17) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+7. ![prMerged] Merged PR [#16](https://github.com/DisList-site/DisList/pull/16) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+8. ![prOpened] Opened PR [#15](https://github.com/DisList-site/DisList/pull/15) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+9. ![issueOpened] Opened issue [#14](https://github.com/DisList-site/DisList/issues/14) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
+10. ![issueOpened] Opened issue [#13](https://github.com/DisList-site/DisList/issues/13) in [DisList-site/DisList](https://github.com/DisList-site/DisList)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
