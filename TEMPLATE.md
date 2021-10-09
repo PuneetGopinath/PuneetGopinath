@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 9th, 2021, 5:48:57 PM (Indian Standard Time)
+Last Updated: Saturday, October 9th, 2021, 11:43:59 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#46](https://github.com/DisWeb-site/DisWeb/pull/46) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-2. ![issueOpened] Opened issue [#47](https://github.com/DisWeb-site/DisWeb/issues/47) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-3. ![issueClosed] Closed issue [#17](https://github.com/DisWeb-site/DisWeb/issues/17) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-4. ![prMerged] Merged PR [#313](https://github.com/Welcome-Bot/welcome-bot/pull/313) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![prMerged] Merged PR [#319](https://github.com/Welcome-Bot/welcome-bot/pull/319) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prOpened] Opened PR [#319](https://github.com/Welcome-Bot/welcome-bot/pull/319) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-7. ![prOpened] Opened PR [#248](https://github.com/discord-tickets/bot/pull/248) in [discord-tickets/bot](https://github.com/discord-tickets/bot)
-8. ![issueClosed] Closed issue [#18](https://github.com/DisWeb-site/DisWeb/issues/18) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-9. ![prMerged] Merged PR [#45](https://github.com/DisWeb-site/DisWeb/pull/45) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-10. ![prOpened] Opened PR [#45](https://github.com/DisWeb-site/DisWeb/pull/45) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+1. ![prMerged] Merged PR [#320](https://github.com/Welcome-Bot/welcome-bot/pull/320) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prMerged] Merged PR [#46](https://github.com/DisWeb-site/DisWeb/pull/46) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+3. ![issueOpened] Opened issue [#47](https://github.com/DisWeb-site/DisWeb/issues/47) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+4. ![issueClosed] Closed issue [#17](https://github.com/DisWeb-site/DisWeb/issues/17) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+5. ![prMerged] Merged PR [#313](https://github.com/Welcome-Bot/welcome-bot/pull/313) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prMerged] Merged PR [#319](https://github.com/Welcome-Bot/welcome-bot/pull/319) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![prOpened] Opened PR [#319](https://github.com/Welcome-Bot/welcome-bot/pull/319) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+8. ![prOpened] Opened PR [#248](https://github.com/discord-tickets/bot/pull/248) in [discord-tickets/bot](https://github.com/discord-tickets/bot)
+9. ![issueClosed] Closed issue [#18](https://github.com/DisWeb-site/DisWeb/issues/18) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+10. ![prMerged] Merged PR [#45](https://github.com/DisWeb-site/DisWeb/pull/45) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
