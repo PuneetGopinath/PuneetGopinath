@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 14th, 2021, 11:45:14 AM (Indian Standard Time)
+Last Updated: Thursday, October 14th, 2021, 5:50:05 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#50](https://github.com/DisWeb-site/DisWeb/pull/50) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-2. ![prMerged] Merged PR [#57](https://github.com/DisWeb-site/DisWeb/pull/57) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-3. ![prMerged] Merged PR [#325](https://github.com/Welcome-Bot/welcome-bot/pull/325) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prMerged] Merged PR [#53](https://github.com/DisWeb-site/DisWeb/pull/53) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-5. ![prMerged] Merged PR [#52](https://github.com/DisWeb-site/DisWeb/pull/52) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-6. ![prMerged] Merged PR [#2](https://github.com/DFlux-Team/DFlux-Bot/pull/2) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
-7. ![prOpened] Opened PR [#2](https://github.com/DFlux-Team/DFlux-Bot/pull/2) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
-8. ![prClosed] Closed PR [#1](https://github.com/DFlux-Team/DFlux-Bot/pull/1) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
-9. ![prMerged] Merged PR [#84](https://github.com/Welcome-Bot/discord-pagination/pull/84) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-10. ![prMerged] Merged PR [#324](https://github.com/Welcome-Bot/welcome-bot/pull/324) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prMerged] Merged PR [#327](https://github.com/Welcome-Bot/welcome-bot/pull/327) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prMerged] Merged PR [#326](https://github.com/Welcome-Bot/welcome-bot/pull/326) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+3. ![prMerged] Merged PR [#50](https://github.com/DisWeb-site/DisWeb/pull/50) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+4. ![prMerged] Merged PR [#57](https://github.com/DisWeb-site/DisWeb/pull/57) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+5. ![prMerged] Merged PR [#325](https://github.com/Welcome-Bot/welcome-bot/pull/325) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prMerged] Merged PR [#53](https://github.com/DisWeb-site/DisWeb/pull/53) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+7. ![prMerged] Merged PR [#52](https://github.com/DisWeb-site/DisWeb/pull/52) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+8. ![prMerged] Merged PR [#2](https://github.com/DFlux-Team/DFlux-Bot/pull/2) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+9. ![prOpened] Opened PR [#2](https://github.com/DFlux-Team/DFlux-Bot/pull/2) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+10. ![prClosed] Closed PR [#1](https://github.com/DFlux-Team/DFlux-Bot/pull/1) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -59,9 +59,9 @@ Last Updated: Thursday, October 14th, 2021, 11:45:14 AM (Indian Standard Time)
 ### 🚀 Stats
 
 - Created my github account **0** years ago.
-- Contributed to **64** repositories.
+- Contributed to **63** repositories.
 - Own **21** repositories and **3** gists.
-- Pushed **2198** commits to github.
+- Pushed **2160** commits to github.
 - Opened **60** issues.
 - Submitted **299** pull requests.
 - Received **27** stars from github users.
