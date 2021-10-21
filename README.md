@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 21st, 2021, 11:45:44 AM (Indian Standard Time)
+Last Updated: Thursday, October 21st, 2021, 5:51:12 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prOpened] Opened PR [#1298](https://github.com/is-a-dev/register/pull/1298) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. ![prMerged] Merged PR [#63](https://github.com/DisWeb-site/DisWeb/pull/63) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-3. ![prMerged] Merged PR [#332](https://github.com/Welcome-Bot/welcome-bot/pull/332) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-4. ![prMerged] Merged PR [#331](https://github.com/Welcome-Bot/welcome-bot/pull/331) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![fork] Forked [PuneetGopinath/boilerplate-npm](https://github.com/PuneetGopinath/boilerplate-npm) from [freeCodeCamp/boilerplate-npm](https://github.com/freeCodeCamp/boilerplate-npm)
-6. ![fork] Forked [PuneetGopinath/register](https://github.com/PuneetGopinath/register) from [is-a-dev/register](https://github.com/is-a-dev/register)
-7. ![star] Starred [is-a-dev/register](https://github.com/is-a-dev/register)
-8. ![prMerged] Merged PR [#93](https://github.com/Welcome-Bot/discord-pagination/pull/93) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-9. ![prMerged] Merged PR [#94](https://github.com/Welcome-Bot/discord-pagination/pull/94) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-10. ![prMerged] Merged PR [#95](https://github.com/Welcome-Bot/discord-pagination/pull/95) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+1. ![prClosed] Closed PR [#2](https://github.com/Anshrk/user-bot/pull/2) in [Anshrk/user-bot](https://github.com/Anshrk/user-bot)
+2. ![fork] Forked [PuneetGopinath/DFlux-Bot](https://github.com/PuneetGopinath/DFlux-Bot) from [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+3. ![prOpened] Opened PR [#1298](https://github.com/is-a-dev/register/pull/1298) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ![prMerged] Merged PR [#63](https://github.com/DisWeb-site/DisWeb/pull/63) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+5. ![prMerged] Merged PR [#332](https://github.com/Welcome-Bot/welcome-bot/pull/332) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prMerged] Merged PR [#331](https://github.com/Welcome-Bot/welcome-bot/pull/331) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+7. ![fork] Forked [PuneetGopinath/boilerplate-npm](https://github.com/PuneetGopinath/boilerplate-npm) from [freeCodeCamp/boilerplate-npm](https://github.com/freeCodeCamp/boilerplate-npm)
+8. ![fork] Forked [PuneetGopinath/register](https://github.com/PuneetGopinath/register) from [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![star] Starred [is-a-dev/register](https://github.com/is-a-dev/register)
+10. ![prMerged] Merged PR [#93](https://github.com/Welcome-Bot/discord-pagination/pull/93) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
