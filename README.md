@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 22nd, 2021, 11:45:41 AM (Indian Standard Time)
+Last Updated: Friday, October 22nd, 2021, 5:50:51 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#333](https://github.com/Welcome-Bot/welcome-bot/pull/333) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![issueClosed] Closed issue [#203](https://github.com/Welcome-Bot/welcome-bot/issues/203) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-3. ![prClosed] Closed PR [#2](https://github.com/Anshrk/user-bot/pull/2) in [Anshrk/user-bot](https://github.com/Anshrk/user-bot)
-4. ![fork] Forked [PuneetGopinath/DFlux-Bot](https://github.com/PuneetGopinath/DFlux-Bot) from [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
-5. ![prOpened] Opened PR [#1298](https://github.com/is-a-dev/register/pull/1298) in [is-a-dev/register](https://github.com/is-a-dev/register)
-6. ![prMerged] Merged PR [#63](https://github.com/DisWeb-site/DisWeb/pull/63) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-7. ![prMerged] Merged PR [#332](https://github.com/Welcome-Bot/welcome-bot/pull/332) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![prMerged] Merged PR [#331](https://github.com/Welcome-Bot/welcome-bot/pull/331) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![fork] Forked [PuneetGopinath/boilerplate-npm](https://github.com/PuneetGopinath/boilerplate-npm) from [freeCodeCamp/boilerplate-npm](https://github.com/freeCodeCamp/boilerplate-npm)
-10. ![fork] Forked [PuneetGopinath/register](https://github.com/PuneetGopinath/register) from [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ![prMerged] Merged PR [#334](https://github.com/Welcome-Bot/welcome-bot/pull/334) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prMerged] Merged PR [#64](https://github.com/DisWeb-site/DisWeb/pull/64) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+3. ![star] Starred [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
+4. ![prMerged] Merged PR [#333](https://github.com/Welcome-Bot/welcome-bot/pull/333) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![issueClosed] Closed issue [#203](https://github.com/Welcome-Bot/welcome-bot/issues/203) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![prClosed] Closed PR [#2](https://github.com/Anshrk/user-bot/pull/2) in [Anshrk/user-bot](https://github.com/Anshrk/user-bot)
+7. ![fork] Forked [PuneetGopinath/DFlux-Bot](https://github.com/PuneetGopinath/DFlux-Bot) from [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+8. ![prOpened] Opened PR [#1298](https://github.com/is-a-dev/register/pull/1298) in [is-a-dev/register](https://github.com/is-a-dev/register)
+9. ![prMerged] Merged PR [#63](https://github.com/DisWeb-site/DisWeb/pull/63) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+10. ![prMerged] Merged PR [#332](https://github.com/Welcome-Bot/welcome-bot/pull/332) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
