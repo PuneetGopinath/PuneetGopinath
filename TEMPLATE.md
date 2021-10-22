@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 22nd, 2021, 5:50:51 PM (Indian Standard Time)
+Last Updated: Friday, October 22nd, 2021, 11:44:59 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#334](https://github.com/Welcome-Bot/welcome-bot/pull/334) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-2. ![prMerged] Merged PR [#64](https://github.com/DisWeb-site/DisWeb/pull/64) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-3. ![star] Starred [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
-4. ![prMerged] Merged PR [#333](https://github.com/Welcome-Bot/welcome-bot/pull/333) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-5. ![issueClosed] Closed issue [#203](https://github.com/Welcome-Bot/welcome-bot/issues/203) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-6. ![prClosed] Closed PR [#2](https://github.com/Anshrk/user-bot/pull/2) in [Anshrk/user-bot](https://github.com/Anshrk/user-bot)
-7. ![fork] Forked [PuneetGopinath/DFlux-Bot](https://github.com/PuneetGopinath/DFlux-Bot) from [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
-8. ![prOpened] Opened PR [#1298](https://github.com/is-a-dev/register/pull/1298) in [is-a-dev/register](https://github.com/is-a-dev/register)
-9. ![prMerged] Merged PR [#63](https://github.com/DisWeb-site/DisWeb/pull/63) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
-10. ![prMerged] Merged PR [#332](https://github.com/Welcome-Bot/welcome-bot/pull/332) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prClosed] Closed PR [#311](https://github.com/Welcome-Bot/welcome-bot/pull/311) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+2. ![prMerged] Merged PR [#96](https://github.com/Welcome-Bot/discord-pagination/pull/96) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+3. ![issueOpened] Opened issue [#337](https://github.com/Welcome-Bot/welcome-bot/issues/337) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+4. ![issueOpened] Opened issue [#336](https://github.com/Welcome-Bot/welcome-bot/issues/336) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+5. ![issueOpened] Opened issue [#335](https://github.com/Welcome-Bot/welcome-bot/issues/335) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+6. ![issueOpened] Opened issue [#3](https://github.com/DFlux-Team/DFlux-Bot/issues/3) in [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+7. ![star] Starred [DFlux-Team/DFlux-Bot](https://github.com/DFlux-Team/DFlux-Bot)
+8. ![prMerged] Merged PR [#334](https://github.com/Welcome-Bot/welcome-bot/pull/334) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+9. ![prMerged] Merged PR [#64](https://github.com/DisWeb-site/DisWeb/pull/64) in [DisWeb-site/DisWeb](https://github.com/DisWeb-site/DisWeb)
+10. ![star] Starred [yagop/node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
