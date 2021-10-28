@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 28th, 2021, 6:13:21 AM (Indian Standard Time)
+Last Updated: Thursday, October 28th, 2021, 11:45:46 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![fork] Forked [PuneetGopinath/matteotumiati](https://github.com/PuneetGopinath/matteotumiati) from [matteotumiati/matteotumiati](https://github.com/matteotumiati/matteotumiati)
-2. ![prMerged] Merged PR [#103](https://github.com/Welcome-Bot/discord-pagination/pull/103) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-3. ![prMerged] Merged PR [#100](https://github.com/Welcome-Bot/discord-pagination/pull/100) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-4. ![prMerged] Merged PR [#101](https://github.com/Welcome-Bot/discord-pagination/pull/101) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-5. ![prMerged] Merged PR [#102](https://github.com/Welcome-Bot/discord-pagination/pull/102) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-6. ![prMerged] Merged PR [#99](https://github.com/Welcome-Bot/discord-pagination/pull/99) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-7. ![prMerged] Merged PR [#339](https://github.com/Welcome-Bot/welcome-bot/pull/339) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-8. ![prMerged] Merged PR [#340](https://github.com/Welcome-Bot/welcome-bot/pull/340) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
-9. ![prMerged] Merged PR [#98](https://github.com/Welcome-Bot/discord-pagination/pull/98) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
-10. ![prOpened] Opened PR [#338](https://github.com/Welcome-Bot/welcome-bot/pull/338) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+1. ![prOpened] Opened PR [#1](https://github.com/matteotumiati/matteotumiati/pull/1) in [matteotumiati/matteotumiati](https://github.com/matteotumiati/matteotumiati)
+2. ![fork] Forked [PuneetGopinath/matteotumiati](https://github.com/PuneetGopinath/matteotumiati) from [matteotumiati/matteotumiati](https://github.com/matteotumiati/matteotumiati)
+3. ![fork] Forked [PuneetGopinath/matteotumiati](https://github.com/PuneetGopinath/matteotumiati) from [matteotumiati/matteotumiati](https://github.com/matteotumiati/matteotumiati)
+4. ![prMerged] Merged PR [#103](https://github.com/Welcome-Bot/discord-pagination/pull/103) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+5. ![prMerged] Merged PR [#100](https://github.com/Welcome-Bot/discord-pagination/pull/100) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+6. ![prMerged] Merged PR [#101](https://github.com/Welcome-Bot/discord-pagination/pull/101) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+7. ![prMerged] Merged PR [#102](https://github.com/Welcome-Bot/discord-pagination/pull/102) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+8. ![prMerged] Merged PR [#99](https://github.com/Welcome-Bot/discord-pagination/pull/99) in [Welcome-Bot/discord-pagination](https://github.com/Welcome-Bot/discord-pagination)
+9. ![prMerged] Merged PR [#339](https://github.com/Welcome-Bot/welcome-bot/pull/339) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
+10. ![prMerged] Merged PR [#340](https://github.com/Welcome-Bot/welcome-bot/pull/340) in [Welcome-Bot/welcome-bot](https://github.com/Welcome-Bot/welcome-bot)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -59,11 +59,11 @@ Last Updated: Thursday, October 28th, 2021, 6:13:21 AM (Indian Standard Time)
 ### 🚀 Stats
 
 - Created my github account **0** years ago.
-- Contributed to **65** repositories.
+- Contributed to **66** repositories.
 - Own **21** repositories and **3** gists.
 - Pushed **2207** commits to github.
 - Opened **64** issues.
-- Submitted **302** pull requests.
+- Submitted **303** pull requests.
 - Received **27** stars from github users.
 
 <!-- Badges -->
