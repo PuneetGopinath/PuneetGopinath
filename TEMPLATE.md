@@ -36,19 +36,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 2nd, 2021, 11:45:50 AM (Indian Standard Time)
+Last Updated: Thursday, December 2nd, 2021, 5:51:24 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#112](https://github.com/InfusionBot/discord-pagination/pull/112) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
-2. ![prMerged] Merged PR [#110](https://github.com/InfusionBot/discord-pagination/pull/110) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
-3. ![prMerged] Merged PR [#109](https://github.com/InfusionBot/discord-pagination/pull/109) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
-4. ![prMerged] Merged PR [#108](https://github.com/InfusionBot/discord-pagination/pull/108) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
-5. ![prMerged] Merged PR [#16](https://github.com/chinnupavan/priya-bot/pull/16) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
-6. ![prOpened] Opened PR [#10958](https://github.com/Automattic/mongoose/pull/10958) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
-7. ![fork] Forked [PuneetGopinath/mongoose](https://github.com/PuneetGopinath/mongoose) from [Automattic/mongoose](https://github.com/Automattic/mongoose)
-8. ![prMerged] Merged PR [#106](https://github.com/InfusionBot/discord-pagination/pull/106) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
-9. ![prMerged] Merged PR [#107](https://github.com/InfusionBot/discord-pagination/pull/107) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
-10. ![prMerged] Merged PR [#105](https://github.com/InfusionBot/discord-pagination/pull/105) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
+1. ![star] Starred [Qovery/engine](https://github.com/Qovery/engine)
+2. ![prMerged] Merged PR [#112](https://github.com/InfusionBot/discord-pagination/pull/112) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
+3. ![prMerged] Merged PR [#110](https://github.com/InfusionBot/discord-pagination/pull/110) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
+4. ![prMerged] Merged PR [#109](https://github.com/InfusionBot/discord-pagination/pull/109) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
+5. ![prMerged] Merged PR [#108](https://github.com/InfusionBot/discord-pagination/pull/108) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
+6. ![prMerged] Merged PR [#16](https://github.com/chinnupavan/priya-bot/pull/16) in [chinnupavan/priya-bot](https://github.com/chinnupavan/priya-bot)
+7. ![prOpened] Opened PR [#10958](https://github.com/Automattic/mongoose/pull/10958) in [Automattic/mongoose](https://github.com/Automattic/mongoose)
+8. ![fork] Forked [PuneetGopinath/mongoose](https://github.com/PuneetGopinath/mongoose) from [Automattic/mongoose](https://github.com/Automattic/mongoose)
+9. ![prMerged] Merged PR [#106](https://github.com/InfusionBot/discord-pagination/pull/106) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
+10. ![prMerged] Merged PR [#107](https://github.com/InfusionBot/discord-pagination/pull/107) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
