@@ -36,7 +36,7 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 6th, 2022, 5:53:33 PM (Indian Standard Time)
+Last Updated: Thursday, January 6th, 2022, 11:46:40 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![issueOpened] Opened issue [#39](https://github.com/Nekos-life/nekos-dot-life/issues/39) in [Nekos-life/nekos-dot-life](https://github.com/Nekos-life/nekos-dot-life)
@@ -64,7 +64,7 @@ Last Updated: Thursday, January 6th, 2022, 5:53:33 PM (Indian Standard Time)
 - Pushed **2327** commits to github.
 - Opened **65** issues.
 - Submitted **304** pull requests.
-- Received **28** stars from github users.
+- Received **27** stars from github users.
 
 <!-- Badges -->
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
