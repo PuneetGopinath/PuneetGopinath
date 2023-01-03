@@ -36,7 +36,7 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 2nd, 2023, 11:45:11 PM (Indian Standard Time)
+Last Updated: Tuesday, January 3rd, 2023, 6:32:33 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![prMerged] Merged PR [#338](https://github.com/InfusionBot/Welcome-Bot/pull/338) in [InfusionBot/Welcome-Bot](https://github.com/InfusionBot/Welcome-Bot)
@@ -58,7 +58,7 @@ Last Updated: Monday, January 2nd, 2023, 11:45:11 PM (Indian Standard Time)
 
 ### 🚀 Stats
 
-- Created my github account **1** years ago.
+- Created my github account **2** years ago.
 - Contributed to **3** repositories.
 - Own **25** repositories and **3** gists.
 - Pushed **1706** commits to github.
