@@ -36,13 +36,13 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 4th, 2023, 5:55:03 PM (Indian Standard Time)
+Last Updated: Wednesday, January 4th, 2023, 11:46:19 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![prMerged] Merged PR [#338](https://github.com/InfusionBot/Welcome-Bot/pull/338) in [InfusionBot/Welcome-Bot](https://github.com/InfusionBot/Welcome-Bot)
-2. ![release] Released [Recent Activity v2.3.3 released!](https://github.com/Readme-Workflows/recent-activity/releases/tag/v2.3.3) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-3. ![prMerged] Merged PR [#160](https://github.com/Readme-Workflows/recent-activity/pull/160) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-4. ![issueClosed] Closed issue [#159](https://github.com/Readme-Workflows/recent-activity/issues/159) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. ![prClosed] Closed PR [#6](https://github.com/Andre601/anti-phishing-database/pull/6) in [Andre601/anti-phishing-database](https://github.com/Andre601/anti-phishing-database)
+2. ![prClosed] Closed PR [#1](https://github.com/raravel/neuro-umd/pull/1) in [raravel/neuro-umd](https://github.com/raravel/neuro-umd)
+3. ![prClosed] Closed PR [#69](https://github.com/pypa/trove-classifiers/pull/69) in [pypa/trove-classifiers](https://github.com/pypa/trove-classifiers)
+4. ![star] Starred [PuneetGopinath/IRCbot](https://github.com/PuneetGopinath/IRCbot)
 5. ![prMerged] Merged PR [#158](https://github.com/Readme-Workflows/recent-activity/pull/158) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 6. ![prMerged] Merged PR [#152](https://github.com/Readme-Workflows/recent-activity/pull/152) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
 7. ![prOpened] Opened PR [#1](https://github.com/KosmoD/Web/pull/1) in [KosmoD/Web](https://github.com/KosmoD/Web)
