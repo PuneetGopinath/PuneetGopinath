@@ -32,7 +32,7 @@ jobs:
         run: git pull origin main -r
 
       - name: Generate stats
-        uses: teoxoy/profile-readme-stats@v1
+        uses: teoxoy/profile-readme-stats@v2
         with:
           token: ${{ secrets.STATS_TOKEN }}
           includeForks: true
