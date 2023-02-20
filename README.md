@@ -36,7 +36,7 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, February 19th, 2023, 11:45:04 PM (Indian Standard Time)
+Last Updated: Monday, February 20th, 2023, 6:39:47 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![prClosed] Closed PR [#6](https://github.com/Andre601/anti-phishing-database/pull/6) in [Andre601/anti-phishing-database](https://github.com/Andre601/anti-phishing-database)
@@ -59,7 +59,7 @@ Last Updated: Sunday, February 19th, 2023, 11:45:04 PM (Indian Standard Time)
 ### 🚀 Stats
 
 - Created my github account **2** years ago.
-- Contributed to **2** repositories.
+- Contributed to **1** repositories.
 - Own **16** repositories and **3** gists.
 - Pushed **1504** commits to github.
 - Opened **64** issues.
