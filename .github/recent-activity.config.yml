@@ -25,5 +25,5 @@ messages:
   changes_approved: "![approved] Approved {ID} in {REPO}"
   changes_requested: "![changesRequested] Requested changes in {ID} in {REPO}"
   new_release: "![release] Released {ID} in {REPO}"
-  new_star: "![star] Starred {REPO}"
-  push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}",
+  new_star: "![star] Starred {REPO}",
+  push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
