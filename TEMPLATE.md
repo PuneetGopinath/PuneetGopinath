@@ -1,26 +1,19 @@
 <h1 align="center">Hi everyone 👋, I'm Puneet Gopinath</h1>
-<h3 align="center">A backend and frontend developer from India</h3>
+<h3 align="center">A backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetgopinath&label=Profile%20views&color=0e75b6&style=flat" alt="puneetgopinath" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneetgopinath" alt="puneetgopinath" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/puneetgopinath" target="blank"><img src="https://img.shields.io/twitter/follow/puneetgopinath?logo=twitter&style=for-the-badge" alt="puneetgopinath" /></a> </p>
-
-- 🔭 I’m currently working on [Switch Theme JS](https://github.com/PuneetGopinath/switch-theme-js)
-
-- 🌱 I’m currently learning **Node.JS**
-
-- 🤝 I’m looking for help with [Switch Theme JS](https://github.com/PuneetGopinath/switch-theme-js)
+- 🌱 I’m currently learning **Frontend development**
 
 - 💬 Ask me about **PHP, MySQL/MariaDB, Node.JS, HTML, JS**
 
-- 📫 How to reach me **baalkrshna@gmail.com**
+- 📫 How to reach me **puneet2007@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/baalkrshna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="baalkrshna" height="30" width="40" /></a>
-<a href="https://twitter.com/puneetgopinath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puneetgopinath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
