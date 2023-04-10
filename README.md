@@ -36,19 +36,14 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 10th, 2023, 5:52:29 PM (Indian Standard Time)
+Last Updated: Monday, April 10th, 2023, 2:41:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ![star] Starred [stripe/stripe-node](https://github.com/stripe/stripe-node)
-2. ![prClosed] Closed PR [#6](https://github.com/Andre601/anti-phishing-database/pull/6) in [Andre601/anti-phishing-database](https://github.com/Andre601/anti-phishing-database)
-3. ![prClosed] Closed PR [#1](https://github.com/raravel/neuro-umd/pull/1) in [raravel/neuro-umd](https://github.com/raravel/neuro-umd)
-4. ![prClosed] Closed PR [#69](https://github.com/pypa/trove-classifiers/pull/69) in [pypa/trove-classifiers](https://github.com/pypa/trove-classifiers)
-5. ![star] Starred [PuneetGopinath/IRCbot](https://github.com/PuneetGopinath/IRCbot)
-6. ![prMerged] Merged PR [#152](https://github.com/Readme-Workflows/recent-activity/pull/152) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
-7. ![prOpened] Opened PR [#1](https://github.com/KosmoD/Web/pull/1) in [KosmoD/Web](https://github.com/KosmoD/Web)
-8. ![fork] Forked [PuneetGopinath/Web](https://github.com/PuneetGopinath/Web) from [KosmoD/Web](https://github.com/KosmoD/Web)
-9. ![fork] Forked [PuneetGopinath/reconlx-api](https://github.com/PuneetGopinath/reconlx-api) from [reconlx/reconlx-api](https://github.com/reconlx/reconlx-api)
-10. ![prMerged] Merged PR [#108](https://github.com/InfusionBot/discord-pagination/pull/108) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
+1. ⭐ Starred [Artlfmj/server-pinger](https://github.com/Artlfmj/server-pinger)<br>
+2. 🎉 Merged PR [#12](https://github.com/PuneetGopinath/PuneetGopinath/pull/12) in [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
+3. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
+4. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
+5. 🎉 Merged PR [#13](https://github.com/PuneetGopinath/PuneetGopinath/pull/13) in [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
