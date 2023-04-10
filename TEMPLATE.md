@@ -46,8 +46,6 @@ Last Updated: Monday, April 10th, 2023, 5:52:29 PM (Indian Standard Time)
 ### 🗄 My projects:
 
 [![Recent Activity](https://github-readme-stats.vercel.app/api/pin/?username=Readme-Workflows&repo=recent-activity)](https://github.com/Readme-Workflows/recent-activity)
-[![Welcome-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Welcome-Bot&repo=welcome-bot)](https://github.com/Welcome-Bot/welcome-bot)
-[![Switch Theme JS](https://github-readme-stats.vercel.app/api/pin/?username=PuneetGopinath&repo=switch-theme-js)](https://github.com/PuneetGopinath/switch-theme-js)
 
 ### 🚀 Stats
 
