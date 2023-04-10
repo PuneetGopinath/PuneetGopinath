@@ -1,26 +1,19 @@
 <h1 align="center">Hi everyone 👋, I'm Puneet Gopinath</h1>
-<h3 align="center">A backend and frontend developer from India</h3>
+<h3 align="center">A backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puneetgopinath&label=Profile%20views&color=0e75b6&style=flat" alt="puneetgopinath" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneetgopinath" alt="puneetgopinath" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/puneetgopinath" target="blank"><img src="https://img.shields.io/twitter/follow/puneetgopinath?logo=twitter&style=for-the-badge" alt="puneetgopinath" /></a> </p>
-
-- 🔭 I’m currently working on [Switch Theme JS](https://github.com/PuneetGopinath/switch-theme-js)
-
-- 🌱 I’m currently learning **Node.JS**
-
-- 🤝 I’m looking for help with [Switch Theme JS](https://github.com/PuneetGopinath/switch-theme-js)
+- 🌱 I’m currently learning **Frontend development**
 
 - 💬 Ask me about **PHP, MySQL/MariaDB, Node.JS, HTML, JS**
 
-- 📫 How to reach me **baalkrshna@gmail.com**
+- 📫 How to reach me **puneet2007@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/baalkrshna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="baalkrshna" height="30" width="40" /></a>
-<a href="https://twitter.com/puneetgopinath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puneetgopinath" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,30 +29,33 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 10th, 2023, 2:41:03 PM
+Last Updated: Monday, April 10th, 2023, 5:52:29 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Artlfmj/server-pinger](https://github.com/Artlfmj/server-pinger)<br>
-2. 🎉 Merged PR [#12](https://github.com/PuneetGopinath/PuneetGopinath/pull/12) in [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
-3. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
-4. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
-5. 🎉 Merged PR [#13](https://github.com/PuneetGopinath/PuneetGopinath/pull/13) in [PuneetGopinath/PuneetGopinath](https://github.com/PuneetGopinath/PuneetGopinath)<br>
+1. ![star] Starred [stripe/stripe-node](https://github.com/stripe/stripe-node)
+2. ![prClosed] Closed PR [#6](https://github.com/Andre601/anti-phishing-database/pull/6) in [Andre601/anti-phishing-database](https://github.com/Andre601/anti-phishing-database)
+3. ![prClosed] Closed PR [#1](https://github.com/raravel/neuro-umd/pull/1) in [raravel/neuro-umd](https://github.com/raravel/neuro-umd)
+4. ![prClosed] Closed PR [#69](https://github.com/pypa/trove-classifiers/pull/69) in [pypa/trove-classifiers](https://github.com/pypa/trove-classifiers)
+5. ![star] Starred [PuneetGopinath/IRCbot](https://github.com/PuneetGopinath/IRCbot)
+6. ![prMerged] Merged PR [#152](https://github.com/Readme-Workflows/recent-activity/pull/152) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![prOpened] Opened PR [#1](https://github.com/KosmoD/Web/pull/1) in [KosmoD/Web](https://github.com/KosmoD/Web)
+8. ![fork] Forked [PuneetGopinath/Web](https://github.com/PuneetGopinath/Web) from [KosmoD/Web](https://github.com/KosmoD/Web)
+9. ![fork] Forked [PuneetGopinath/reconlx-api](https://github.com/PuneetGopinath/reconlx-api) from [reconlx/reconlx-api](https://github.com/reconlx/reconlx-api)
+10. ![prMerged] Merged PR [#108](https://github.com/InfusionBot/discord-pagination/pull/108) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
 [![Recent Activity](https://github-readme-stats.vercel.app/api/pin/?username=Readme-Workflows&repo=recent-activity)](https://github.com/Readme-Workflows/recent-activity)
-[![Welcome-Bot](https://github-readme-stats.vercel.app/api/pin/?username=Welcome-Bot&repo=welcome-bot)](https://github.com/Welcome-Bot/welcome-bot)
-[![Switch Theme JS](https://github-readme-stats.vercel.app/api/pin/?username=PuneetGopinath&repo=switch-theme-js)](https://github.com/PuneetGopinath/switch-theme-js)
 
 ### 🚀 Stats
 
 - Created my github account **2** years ago.
 - Contributed to **0** repositories.
-- Own **16** repositories and **3** gists.
-- Pushed **1504** commits to github.
+- Own **3** repositories and **3** gists.
+- Pushed **1509** commits to github.
 - Opened **64** issues.
 - Submitted **298** pull requests.
-- Received **17** stars from github users.
+- Received **4** stars from github users.
 
 <!-- Badges -->
 [issueOpened]: https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/IssueOpenedOld.svg
