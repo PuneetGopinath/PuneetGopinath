@@ -29,14 +29,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 22nd, 2023, 6:14:49 AM
+Last Updated: Monday, April 10th, 2023, 5:52:29 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#272](https://github.com/Readme-Workflows/recent-activity/pull/272#issuecomment-1514122064) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-2. 💬 Commented on [#272](https://github.com/Readme-Workflows/recent-activity/pull/272#discussion_r1162813465) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-3. 🔴 Requested 1 change(s) for [#272](https://github.com/Readme-Workflows/recent-activity/pull/272#pullrequestreview-1377748105) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. 💬 Commented on [#272](https://github.com/Readme-Workflows/recent-activity/pull/272#discussion_r1161846647) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-5. ✔️ Closed issue [#3](https://github.com/PuneetGopinath/activity-test/issues/3) in [PuneetGopinath/activity-test](https://github.com/PuneetGopinath/activity-test)<br>
+1. ![star] Starred [stripe/stripe-node](https://github.com/stripe/stripe-node)
+2. ![prClosed] Closed PR [#6](https://github.com/Andre601/anti-phishing-database/pull/6) in [Andre601/anti-phishing-database](https://github.com/Andre601/anti-phishing-database)
+3. ![prClosed] Closed PR [#1](https://github.com/raravel/neuro-umd/pull/1) in [raravel/neuro-umd](https://github.com/raravel/neuro-umd)
+4. ![prClosed] Closed PR [#69](https://github.com/pypa/trove-classifiers/pull/69) in [pypa/trove-classifiers](https://github.com/pypa/trove-classifiers)
+5. ![star] Starred [PuneetGopinath/IRCbot](https://github.com/PuneetGopinath/IRCbot)
+6. ![prMerged] Merged PR [#152](https://github.com/Readme-Workflows/recent-activity/pull/152) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+7. ![prOpened] Opened PR [#1](https://github.com/KosmoD/Web/pull/1) in [KosmoD/Web](https://github.com/KosmoD/Web)
+8. ![fork] Forked [PuneetGopinath/Web](https://github.com/PuneetGopinath/Web) from [KosmoD/Web](https://github.com/KosmoD/Web)
+9. ![fork] Forked [PuneetGopinath/reconlx-api](https://github.com/PuneetGopinath/reconlx-api) from [reconlx/reconlx-api](https://github.com/reconlx/reconlx-api)
+10. ![prMerged] Merged PR [#108](https://github.com/InfusionBot/discord-pagination/pull/108) in [InfusionBot/discord-pagination](https://github.com/InfusionBot/discord-pagination)
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
