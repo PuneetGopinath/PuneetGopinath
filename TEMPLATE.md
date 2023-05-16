@@ -29,19 +29,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 15th, 2023, 11:44:15 PM (Indian Standard Time)
+Last Updated: Tuesday, May 16th, 2023, 6:32:27 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity)<br>
+1. ![people] Became collaborator on [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity)<br>
 2. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity)<br>
-3. ⬆️ Pushed 2 commit(s) to [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity)<br>
-4. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-5. ![fork] Forked [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+3. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity)<br>
+4. ⬆️ Pushed 2 commit(s) to [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity)<br>
+5. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 6. ![fork] Forked [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-7. ⬆️ Pushed 2 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-8. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-9. ![prMerged] Merged PR [#272](https://github.com/Readme-Workflows/recent-activity/pull/272) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-10. ⬆️ Pushed 142 commit(s) to [BunnyTheLifeguard/recent-activity](https://github.com/BunnyTheLifeguard/recent-activity)<br>
+7. ![fork] Forked [PuneetGopinath/recent-activity](https://github.com/PuneetGopinath/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+8. ⬆️ Pushed 2 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+9. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+10. ![prMerged] Merged PR [#272](https://github.com/Readme-Workflows/recent-activity/pull/272) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
