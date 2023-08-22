@@ -29,7 +29,7 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 22nd, 2023, 6:21:42 AM (Indian Standard Time)
+Last Updated: Tuesday, August 22nd, 2023, 11:44:28 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
@@ -40,8 +40,6 @@ Last Updated: Tuesday, August 22nd, 2023, 6:21:42 AM (Indian Standard Time)
 6. ![prMerged] Merged PR [#291](https://github.com/Readme-Workflows/recent-activity/pull/291) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 7. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 8. ![prMerged] Merged PR [#289](https://github.com/Readme-Workflows/recent-activity/pull/289) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-9. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-10. ![prMerged] Merged PR [#286](https://github.com/Readme-Workflows/recent-activity/pull/286) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
