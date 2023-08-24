@@ -29,17 +29,19 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 24th, 2023, 5:51:48 PM (Indian Standard Time)
+Last Updated: Thursday, August 24th, 2023, 11:44:00 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-2. ![prMerged] Merged PR [#303](https://github.com/Readme-Workflows/recent-activity/pull/303) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-3. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. ![prMerged] Merged PR [#300](https://github.com/Readme-Workflows/recent-activity/pull/300) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+1. ⬆️ Pushed 5 commit(s) to [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath)<br>
+2. ![prMerged] Merged PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath)<br>
+3. ![prOpened] Opened PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath)<br>
+4. ⬆️ Pushed 1 commit(s) to [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath)<br>
 5. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-6. ![prMerged] Merged PR [#291](https://github.com/Readme-Workflows/recent-activity/pull/291) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+6. ![prMerged] Merged PR [#303](https://github.com/Readme-Workflows/recent-activity/pull/303) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 7. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-8. ![prMerged] Merged PR [#289](https://github.com/Readme-Workflows/recent-activity/pull/289) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+8. ![prMerged] Merged PR [#300](https://github.com/Readme-Workflows/recent-activity/pull/300) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+9. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+10. ![prMerged] Merged PR [#291](https://github.com/Readme-Workflows/recent-activity/pull/291) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -48,11 +50,11 @@ Last Updated: Thursday, August 24th, 2023, 5:51:48 PM (Indian Standard Time)
 ### 🚀 Stats
 
 - Created my github account **2** years ago.
-- Contributed to **1** repositories.
+- Contributed to **2** repositories.
 - Own **4** repositories and **3** gists.
-- Pushed **1518** commits to github.
+- Pushed **1522** commits to github.
 - Opened **66** issues.
-- Submitted **299** pull requests.
+- Submitted **300** pull requests.
 - Received **4** stars from github users.
 
 <!-- Badges -->
