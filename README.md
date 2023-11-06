@@ -29,7 +29,7 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 6th, 2023, 6:25:22 AM (Indian Standard Time)
+Last Updated: Monday, November 6th, 2023, 11:45:54 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![fork] Forked [PuneetGopinath/Web-Dev-For-Beginners](https://github.com/PuneetGopinath/Web-Dev-For-Beginners) from [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)<br>
@@ -40,8 +40,6 @@ Last Updated: Monday, November 6th, 2023, 6:25:22 AM (Indian Standard Time)
 6. ⬆️ Pushed 1 commit(s) to [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath)<br>
 7. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 8. ![prMerged] Merged PR [#303](https://github.com/Readme-Workflows/recent-activity/pull/303) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-9. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-10. ![prMerged] Merged PR [#300](https://github.com/Readme-Workflows/recent-activity/pull/300) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
