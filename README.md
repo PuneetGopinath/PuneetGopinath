@@ -29,15 +29,11 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 25th, 2023, 6:24:03 AM (Indian Standard Time)
+Last Updated: Saturday, November 25th, 2023, 11:44:12 AM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 1. ![fork] Forked [PuneetGopinath/Web-Dev-For-Beginners](https://github.com/PuneetGopinath/Web-Dev-For-Beginners) from [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)<br>
 2. ![star] Starred [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)<br>
-3. ⬆️ Pushed 5 commit(s) to [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath)<br>
-4. ![prMerged] Merged PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath)<br>
-5. ![prOpened] Opened PR [#2](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath/pull/2) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath)<br>
-6. ⬆️ Pushed 1 commit(s) to [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-PuneetGopinath)<br>
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
