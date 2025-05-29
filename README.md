@@ -29,14 +29,9 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 29th, 2025, 6:05:23 PM (Indian Standard Time)
+Last Updated: Thursday, May 29th, 2025, 11:53:53 PM (Indian Standard Time)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [PuneetGopinath/skills-introduction-to-github](https://github.com/PuneetGopinath/skills-introduction-to-github)<br>
-2. ![prMerged] Merged PR [#2](https://github.com/PuneetGopinath/skills-introduction-to-github/pull/2) in [PuneetGopinath/skills-introduction-to-github](https://github.com/PuneetGopinath/skills-introduction-to-github)<br>
-3. ![prOpened] Opened PR [#2](https://github.com/PuneetGopinath/skills-introduction-to-github/pull/2) in [PuneetGopinath/skills-introduction-to-github](https://github.com/PuneetGopinath/skills-introduction-to-github)<br>
-4. ⬆️ Pushed 1 commit(s) to [PuneetGopinath/skills-introduction-to-github](https://github.com/PuneetGopinath/skills-introduction-to-github)<br>
-5. ![repoCreated] Created new repository [PuneetGopinath/skills-introduction-to-github](https://github.com/PuneetGopinath/skills-introduction-to-github)<br>
 <!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
@@ -46,10 +41,10 @@ Last Updated: Thursday, May 29th, 2025, 6:05:23 PM (Indian Standard Time)
 
 - Created my github account **4** years ago.
 - Contributed to **0** repositories.
-- Own **5** repositories and **3** gists.
-- Pushed **1523** commits to github.
-- Opened **65** issues.
-- Submitted **300** pull requests.
+- Own **2** repositories and **3** gists.
+- Pushed **1487** commits to github.
+- Opened **62** issues.
+- Submitted **292** pull requests.
 - Received **4** stars from github users.
 
 <!-- Badges -->
