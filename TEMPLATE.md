@@ -29,10 +29,7 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 23rd, 2025, 7:08:48 AM (Indian Standard Time)
-<!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
 [![Recent Activity](https://github-readme-stats.vercel.app/api/pin/?username=Readme-Workflows&repo=recent-activity)](https://github.com/Readme-Workflows/recent-activity)
