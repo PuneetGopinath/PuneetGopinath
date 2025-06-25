@@ -29,7 +29,20 @@
 
 ### 🗣 Recent Activity
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: Wednesday, June 25th, 2025, 7:28:12 PM (Indian Standard Time)
+<!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
+1. ![repoCreated] Created new repository [PuneetGopinath/business-card](https://github.com/PuneetGopinath/business-card)<br>
+2. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+3. ![prMerged] Merged PR [#302](https://github.com/Readme-Workflows/recent-activity/pull/302) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+4. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+5. ![prMerged] Merged PR [#307](https://github.com/Readme-Workflows/recent-activity/pull/307) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+6. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+7. ![prMerged] Merged PR [#310](https://github.com/Readme-Workflows/recent-activity/pull/310) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+8. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+9. ![prMerged] Merged PR [#318](https://github.com/Readme-Workflows/recent-activity/pull/318) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+10. ![prClosed] Closed PR [#318](https://github.com/Readme-Workflows/recent-activity/pull/318) in [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
+<!--RECENT_ACTIVITY:end-->
 ### 🗄 My projects:
 
 [![Recent Activity](https://github-readme-stats.vercel.app/api/pin/?username=Readme-Workflows&repo=recent-activity)](https://github.com/Readme-Workflows/recent-activity)
